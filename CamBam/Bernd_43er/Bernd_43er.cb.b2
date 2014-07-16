@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CADFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="0.9.8.0" Name="Bernd_43er">
+  <layers>
+    <layer name="Standard" color="127,255,0">
+      <ModificationCount>0</ModificationCount>
+      <objects>
+        <rect id="1" Closed="true" p="-120,-45,0" w="240" h="90">
+          <ModificationCount>10</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>-120,-45,0</p>
+            <p>120,-45,0</p>
+            <p>120,45,0</p>
+            <p>-120,45,0</p>
+          </pts>
+        </rect>
+        <text id="2" p1="-101,-32,0" p2="-101,-32,0" Height="36" Font="1CamBam_Stick_9" align="bottom,left">
+          <ModificationCount>690</ModificationCount>
+          <mat m="Identity" />Bernd's  43er
+    Brunnen</text>
+      </objects>
+    </layer>
+  </layers>
+  <MachiningOptions>
+    <Stock>
+      <PMin>0,0</PMin>
+      <PMax>0,0</PMax>
+      <Color>255,165,0</Color>
+    </Stock>
+    <ToolProfile>Unspecified</ToolProfile>
+  </MachiningOptions>
+  <parts>
+    <part Name="Teil1">
+      <machineops />
+      <Stock>
+        <PMin>0,0</PMin>
+        <PMax>0,0</PMax>
+        <Color>255,165,0</Color>
+      </Stock>
+      <ToolProfile>Unspecified</ToolProfile>
+      <Nesting>
+        <BasePoint>0,0</BasePoint>
+        <NestMethod>None</NestMethod>
+      </Nesting>
+    </part>
+  </parts>
+  <ActiveLayer>Standard</ActiveLayer>
+  <ActivePart>Teil1</ActivePart>
+</CADFile>
