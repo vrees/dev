@@ -7,8 +7,6 @@ import javax.websocket.Session;
 
 @ClientEndpoint
 public class OpenHabWebsocketClientEndpoint {
-    Double pressure = 99.0;
-
     Session session;
 
     public OpenHabWebsocketClientEndpoint() {

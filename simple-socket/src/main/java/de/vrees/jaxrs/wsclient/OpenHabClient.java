@@ -1,6 +1,7 @@
 package de.vrees.jaxrs.wsclient;
 
 import java.net.URI;
+import java.util.UUID;
 
 import javax.websocket.ContainerProvider;
 import javax.websocket.WebSocketContainer;
@@ -13,11 +14,10 @@ import javax.ws.rs.core.Response;
 import javax.ws.rs.core.Response.Status.Family;
 
 public class OpenHabClient {
-    // private static final String URI = "ws://localhost:8080/entenhausen/websockets/simplestockmarket";
-
-    private static final String URI_WS = "ws://localhost:8080/rest/items/Pressure_Setpoint/state";
 
     private static final String URI_HTTP = "http://localhost:8080/rest/items/Pressure_Setpoint/state";
+
+    private static final String URI_WS = "ws://localhost:8080/rest/items/Pressure_Setpoint/state";
 
     public static void main(String[] args) throws Exception {
         try {
@@ -31,26 +31,16 @@ public class OpenHabClient {
         }
     }
 
-    private void runWebSocket() throws Exception {
-        OpenHabWebsocketClientEndpoint clientEndpoint = new OpenHabWebsocketClientEndpoint();
-
-        WebSocketContainer container = ContainerProvider.getWebSocketContainer();
-        container.connectToServer(clientEndpoint, new URI(URI_WS));
-
-        System.in.read();
-        clientEndpoint.disconnect();
-
-        System.out.println("OpenHabClient Done!");
-    }
-
     private void initForWebSocket(double value) {
-        // prepare client
         WebTarget target = ClientBuilder.newClient().target(URI_HTTP);
 
         // tell OpenHab to switch to websocket
         Builder request = target.request();
         // request.header("X-Atmosphere-Transport", "long-polling");
         // request.header("X-Atmosphere-Transport", "websocket");
+        // request.header("X-Atmosphere-Transport", "streaming");
+
+        request.header("X-Atmosphere-tracking-id", UUID.randomUUID().toString());
 
         Invocation invocation = request.buildPut(Entity.text(value));
         Response response = invocation.invoke();
@@ -61,6 +51,18 @@ public class OpenHabClient {
             System.err.println("ERROR: Set! => [Status Code=" + response.getStatus() + "]");
         }
         response.close();
+    }
+
+    private void runWebSocket() throws Exception {
+        OpenHabWebsocketClientEndpoint clientEndpoint = new OpenHabWebsocketClientEndpoint();
+
+        WebSocketContainer container = ContainerProvider.getWebSocketContainer();
+        container.connectToServer(clientEndpoint, new URI(URI_WS));
+
+        System.in.read();
+        clientEndpoint.disconnect();
+
+        System.out.println("OpenHabClient Done!");
     }
 
 }
