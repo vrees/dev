@@ -23,9 +23,9 @@ public class SimpleStockMarketResourceClient {
             SimpleStockMarketResourceClient client = new SimpleStockMarketResourceClient();
 
             client.init();
+            // client.getResonse();
 
             double value = 20.0;
-            client.getResonse();
             Builder request = client.getTarget().request();
 
             for (int i = 1; i < 200; i++) {

@@ -32,7 +32,7 @@ public class SimpleStockMarketWSClientEndpoint {
     public void message(Double value) {
         // consumer.accept(value);
 
-        System.out.println("received: " + value);
+        System.out.println("received RR: " + value);
     }
 
     public void disconnect() {
@@ -43,4 +43,3 @@ public class SimpleStockMarketWSClientEndpoint {
         }
     }
 }
-
