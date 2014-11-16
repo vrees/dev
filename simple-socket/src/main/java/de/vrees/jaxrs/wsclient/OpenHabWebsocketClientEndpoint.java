@@ -8,14 +8,14 @@ import javax.websocket.OnOpen;
 import javax.websocket.Session;
 
 @ClientEndpoint
-public class SimpleStockMarketWSClientEndpoint {
+public class OpenHabWebsocketClientEndpoint {
     Double pressure = 99.0;
 
     Consumer<String> consumer;
 
     Session session;
 
-    public SimpleStockMarketWSClientEndpoint(Double pressure, Consumer<String> consumer) {
+    public OpenHabWebsocketClientEndpoint(Double pressure, Consumer<String> consumer) {
         this.consumer = consumer;
         this.pressure = pressure;
     }

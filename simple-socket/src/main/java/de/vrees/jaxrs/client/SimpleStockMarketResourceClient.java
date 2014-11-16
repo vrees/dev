@@ -28,10 +28,12 @@ public class SimpleStockMarketResourceClient {
             double value = 20.0;
             Builder request = client.getTarget().request();
 
-            for (int i = 1; i < 200; i++) {
+            for (int i = 1; i < 20; i++) {
                 client.setValue(request, value + i);
                 Thread.sleep(500);
             }
+
+            request = null;
 
         } catch (Exception e) {
             e.printStackTrace();
