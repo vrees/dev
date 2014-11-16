@@ -32,7 +32,7 @@ public class OpenHabClient {
     }
 
     private void runWebSocket() throws Exception {
-        OpenHabWebsocketClientEndpoint clientEndpoint = new OpenHabWebsocketClientEndpoint(27.2, System.out::println);
+        OpenHabWebsocketClientEndpoint clientEndpoint = new OpenHabWebsocketClientEndpoint();
 
         WebSocketContainer container = ContainerProvider.getWebSocketContainer();
         container.connectToServer(clientEndpoint, new URI(URI_WS));
@@ -49,7 +49,8 @@ public class OpenHabClient {
 
         // tell OpenHab to switch to websocket
         Builder request = target.request();
-        request.header("X-Atmosphere-Transport", "long-polling");
+        // request.header("X-Atmosphere-Transport", "long-polling");
+        // request.header("X-Atmosphere-Transport", "websocket");
 
         Invocation invocation = request.buildPut(Entity.text(value));
         Response response = invocation.invoke();
