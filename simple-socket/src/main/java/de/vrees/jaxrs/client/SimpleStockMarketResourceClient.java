@@ -25,7 +25,7 @@ public class SimpleStockMarketResourceClient {
             client.init();
 
             double value = 20.0;
-            // value = client.getValue();
+            client.getResonse();
             Builder request = client.getTarget().request();
 
             for (int i = 1; i < 200; i++) {
@@ -40,9 +40,14 @@ public class SimpleStockMarketResourceClient {
 
     public double getValue() {
         double value = target.request().get(Double.class);
-
         System.out.println("SUCCESS: Get! => [DruckdifferenzVerdampfer=" + value + "]");
         return value;
+    }
+
+    public void getResonse() {
+        Response response = target.request().get();
+        System.out.println("SUCCESS: Get! => [DruckdifferenzVerdampfer=" + response + "]");
+        response.close();
     }
 
     public void setValue(Builder request, double value) {
@@ -60,6 +65,7 @@ public class SimpleStockMarketResourceClient {
 
     public void init() {
         target = ClientBuilder.newClient().target(URI);
+        target.request().header("X-Atmosphere-Transport", "long-polling");
     }
 
     public WebTarget getTarget() {

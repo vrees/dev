@@ -9,26 +9,30 @@ import javax.websocket.Session;
 
 @ClientEndpoint
 public class SimpleStockMarketWSClientEndpoint {
-    String companyId;
+    Double pressure = 99.0;
 
     Consumer<String> consumer;
 
     Session session;
 
-    public SimpleStockMarketWSClientEndpoint(String companyId, Consumer<String> consumer) {
+    public SimpleStockMarketWSClientEndpoint(Double pressure, Consumer<String> consumer) {
         this.consumer = consumer;
-        this.companyId = companyId;
+        this.pressure = pressure;
     }
 
     @OnOpen
     public void open(Session session) throws Exception {
         this.session = session;
-        session.getBasicRemote().sendText(companyId);
+        System.out.println("Session: " + session);
+
+        session.getBasicRemote().sendText(pressure.toString());
     }
 
     @OnMessage
-    public void message(String value) {
-        consumer.accept(value);
+    public void message(Double value) {
+        // consumer.accept(value);
+
+        System.out.println("received: " + value);
     }
 
     public void disconnect() {
@@ -39,3 +43,4 @@ public class SimpleStockMarketWSClientEndpoint {
         }
     }
 }
+
