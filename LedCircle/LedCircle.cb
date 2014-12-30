@@ -5,560 +5,560 @@
       <ModificationCount>0</ModificationCount>
       <objects>
         <points id="3">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>130,0</p>
           </pts>
         </points>
         <points id="4">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>129.599253385307,10.1996824446198</p>
           </pts>
         </points>
         <points id="5">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>128.399484277368,20.33648045523</p>
           </pts>
         </points>
         <points id="6">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>126.408089651698,30.3478973012677</p>
           </pts>
         </points>
         <points id="7">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>123.63734711837,40.1722092687432</p>
           </pts>
         </points>
         <points id="8">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>120.104339226467,49.7488462074617</p>
           </pts>
         </points>
         <points id="9">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>115.830848144488,59.0187649661411</p>
           </pts>
         </points>
         <points id="10">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>110.843221366032,67.9248134130733</p>
           </pts>
         </points>
         <points id="11">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>105.172209268743,76.4120827980215</p>
           </pts>
         </points>
         <points id="12">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>98.852775528004,84.4282462829239</p>
           </pts>
         </points>
         <points id="13">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>91.9238815542512,91.9238815542512</p>
           </pts>
         </points>
         <points id="14">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>84.4282462829239,98.852775528004</p>
           </pts>
         </points>
         <points id="15">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>76.4120827980215,105.172209268743</p>
           </pts>
         </points>
         <points id="16">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>67.9248134130734,110.843221366032</p>
           </pts>
         </points>
         <points id="17">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>59.0187649661411,115.830848144488</p>
           </pts>
         </points>
         <points id="18">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>49.7488462074617,120.104339226467</p>
           </pts>
         </points>
         <points id="19">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>40.1722092687432,123.63734711837</p>
           </pts>
         </points>
         <points id="20">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>30.3478973012677,126.408089651698</p>
           </pts>
         </points>
         <points id="21">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>20.33648045523,128.399484277368</p>
           </pts>
         </points>
         <points id="22">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>10.1996824446198,129.599253385307</p>
           </pts>
         </points>
         <points id="23">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>7.95994129984545E-15,130</p>
           </pts>
         </points>
         <points id="24">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-10.1996824446198,129.599253385307</p>
           </pts>
         </points>
         <points id="25">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-20.33648045523,128.399484277368</p>
           </pts>
         </points>
         <points id="26">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-30.3478973012677,126.408089651698</p>
           </pts>
         </points>
         <points id="27">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-40.1722092687432,123.63734711837</p>
           </pts>
         </points>
         <points id="28">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-49.7488462074617,120.104339226467</p>
           </pts>
         </points>
         <points id="29">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-59.0187649661411,115.830848144488</p>
           </pts>
         </points>
         <points id="30">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-67.9248134130733,110.843221366032</p>
           </pts>
         </points>
         <points id="31">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-76.4120827980215,105.172209268743</p>
           </pts>
         </points>
         <points id="32">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-84.4282462829239,98.852775528004</p>
           </pts>
         </points>
         <points id="33">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-91.9238815542512,91.9238815542512</p>
           </pts>
         </points>
         <points id="34">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-98.852775528004,84.4282462829239</p>
           </pts>
         </points>
         <points id="35">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-105.172209268743,76.4120827980215</p>
           </pts>
         </points>
         <points id="36">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-110.843221366032,67.9248134130734</p>
           </pts>
         </points>
         <points id="37">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-115.830848144488,59.0187649661411</p>
           </pts>
         </points>
         <points id="38">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-120.104339226467,49.7488462074617</p>
           </pts>
         </points>
         <points id="39">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-123.63734711837,40.1722092687432</p>
           </pts>
         </points>
         <points id="40">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-126.408089651698,30.3478973012677</p>
           </pts>
         </points>
         <points id="41">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-128.399484277368,20.33648045523</p>
           </pts>
         </points>
         <points id="42">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-129.599253385307,10.1996824446199</p>
           </pts>
         </points>
         <points id="43">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-130,1.59198825996909E-14</p>
           </pts>
         </points>
         <points id="44">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-129.599253385307,-10.1996824446198</p>
           </pts>
         </points>
         <points id="45">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-128.399484277368,-20.33648045523</p>
           </pts>
         </points>
         <points id="46">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-126.408089651698,-30.3478973012677</p>
           </pts>
         </points>
         <points id="47">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-123.63734711837,-40.1722092687432</p>
           </pts>
         </points>
         <points id="48">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-120.104339226467,-49.7488462074617</p>
           </pts>
         </points>
         <points id="49">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-115.830848144488,-59.018764966141</p>
           </pts>
         </points>
         <points id="50">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-110.843221366032,-67.9248134130733</p>
           </pts>
         </points>
         <points id="51">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-105.172209268743,-76.4120827980215</p>
           </pts>
         </points>
         <points id="52">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-98.852775528004,-84.4282462829239</p>
           </pts>
         </points>
         <points id="53">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-91.9238815542512,-91.9238815542512</p>
           </pts>
         </points>
         <points id="54">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-84.4282462829239,-98.852775528004</p>
           </pts>
         </points>
         <points id="55">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-76.4120827980215,-105.172209268743</p>
           </pts>
         </points>
         <points id="56">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-67.9248134130734,-110.843221366032</p>
           </pts>
         </points>
         <points id="57">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-59.0187649661411,-115.830848144488</p>
           </pts>
         </points>
         <points id="58">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-49.7488462074617,-120.104339226467</p>
           </pts>
         </points>
         <points id="59">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-40.1722092687432,-123.63734711837</p>
           </pts>
         </points>
         <points id="60">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-30.3478973012677,-126.408089651698</p>
           </pts>
         </points>
         <points id="61">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-20.33648045523,-128.399484277368</p>
           </pts>
         </points>
         <points id="62">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-10.1996824446198,-129.599253385307</p>
           </pts>
         </points>
         <points id="63">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-2.38798238995364E-14,-130</p>
           </pts>
         </points>
         <points id="64">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>10.1996824446198,-129.599253385307</p>
           </pts>
         </points>
         <points id="65">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>20.33648045523,-128.399484277368</p>
           </pts>
         </points>
         <points id="66">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>30.3478973012676,-126.408089651698</p>
           </pts>
         </points>
         <points id="67">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>40.1722092687431,-123.63734711837</p>
           </pts>
         </points>
         <points id="68">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>49.7488462074617,-120.104339226467</p>
           </pts>
         </points>
         <points id="69">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>59.0187649661411,-115.830848144488</p>
           </pts>
         </points>
         <points id="70">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>67.9248134130734,-110.843221366032</p>
           </pts>
         </points>
         <points id="71">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>76.4120827980215,-105.172209268743</p>
           </pts>
         </points>
         <points id="72">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>84.4282462829239,-98.852775528004</p>
           </pts>
         </points>
         <points id="73">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>91.9238815542512,-91.9238815542512</p>
           </pts>
         </points>
         <points id="74">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>98.852775528004,-84.428246282924</p>
           </pts>
         </points>
         <points id="75">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>105.172209268743,-76.4120827980215</p>
           </pts>
         </points>
         <points id="76">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>110.843221366032,-67.9248134130734</p>
           </pts>
         </points>
         <points id="77">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>115.830848144488,-59.0187649661411</p>
           </pts>
         </points>
         <points id="78">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>120.104339226467,-49.7488462074618</p>
           </pts>
         </points>
         <points id="79">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>123.63734711837,-40.1722092687432</p>
           </pts>
         </points>
         <points id="80">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>126.408089651698,-30.3478973012677</p>
           </pts>
         </points>
         <points id="81">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>128.399484277368,-20.33648045523</p>
           </pts>
         </points>
         <points id="82">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>129.599253385307,-10.1996824446198</p>
@@ -570,7 +570,7 @@
       <ModificationCount>0</ModificationCount>
       <objects>
         <points id="83">
-          <ModificationCount>1</ModificationCount>
+          <ModificationCount>3</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>140,120</p>
@@ -600,8 +600,8 @@
           <ToolDiameter state="Value">5</ToolDiameter>
           <ToolNumber state="Value">5</ToolNumber>
           <ToolProfile state="Default">Unspecified</ToolProfile>
-          <PlungeFeedrate state="Default">300</PlungeFeedrate>
-          <CutFeedrate state="Default">800</CutFeedrate>
+          <PlungeFeedrate state="Value">300</PlungeFeedrate>
+          <CutFeedrate state="Default">200</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
           <StartPoint state="Default" />
           <CustomMOPHeader state="Default" />
@@ -696,8 +696,8 @@
             <prim>81</prim>
             <prim>82</prim>
           </primitive>
-          <TargetDepth state="Value">6</TargetDepth>
-          <DepthIncrement state="Default">0.4</DepthIncrement>
+          <TargetDepth state="Value">-8</TargetDepth>
+          <DepthIncrement state="Default">4</DepthIncrement>
           <HoleDiameter state="Value">5</HoleDiameter>
           <DrillLeadOut state="Default">False</DrillLeadOut>
           <SpiralFlatBase state="Default">True</SpiralFlatBase>
@@ -715,8 +715,8 @@
           <ToolDiameter state="Value">3</ToolDiameter>
           <ToolNumber state="Value">3</ToolNumber>
           <ToolProfile state="Default">EndMill</ToolProfile>
-          <PlungeFeedrate state="Default">300</PlungeFeedrate>
-          <CutFeedrate state="Default">800</CutFeedrate>
+          <PlungeFeedrate state="Value">300</PlungeFeedrate>
+          <CutFeedrate state="Default">200</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
           <StartPoint state="Default" />
           <CustomMOPHeader state="Default" />
@@ -732,8 +732,8 @@
           <primitive>
             <prim>83</prim>
           </primitive>
-          <TargetDepth state="Value">6</TargetDepth>
-          <DepthIncrement state="Default">0.4</DepthIncrement>
+          <TargetDepth state="Value">-8</TargetDepth>
+          <DepthIncrement state="Default">4</DepthIncrement>
           <HoleDiameter state="Value">3</HoleDiameter>
           <DrillLeadOut state="Default">False</DrillLeadOut>
           <SpiralFlatBase state="Default">True</SpiralFlatBase>
@@ -752,7 +752,7 @@
       </Stock>
       <ToolProfile>Unspecified</ToolProfile>
       <Nesting>
-        <BasePoint />
+        <BasePoint>0,0</BasePoint>
         <NestMethod>None</NestMethod>
       </Nesting>
     </part>
