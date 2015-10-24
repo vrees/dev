@@ -318,8 +318,8 @@
           <ToolDiameter state="Default">3</ToolDiameter>
           <ToolNumber state="Default">3</ToolNumber>
           <ToolProfile state="Default">EndMill</ToolProfile>
-          <PlungeFeedrate state="Default">40</PlungeFeedrate>
-          <CutFeedrate state="Default">800</CutFeedrate>
+          <PlungeFeedrate state="Default">500</PlungeFeedrate>
+          <CutFeedrate state="Default">1000</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
           <StartPoint state="Default" />
           <CustomMOPHeader state="Default" />
@@ -406,8 +406,8 @@
           <ToolDiameter state="Default">3</ToolDiameter>
           <ToolNumber state="Default">3</ToolNumber>
           <ToolProfile state="Default">EndMill</ToolProfile>
-          <PlungeFeedrate state="Default">40</PlungeFeedrate>
-          <CutFeedrate state="Default">800</CutFeedrate>
+          <PlungeFeedrate state="Default">500</PlungeFeedrate>
+          <CutFeedrate state="Default">1000</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
           <StartPoint state="Default" />
           <CustomMOPHeader state="Default" />
@@ -451,8 +451,8 @@
           <ToolDiameter state="Auto">3</ToolDiameter>
           <ToolNumber state="Value">3</ToolNumber>
           <ToolProfile state="Default">EndMill</ToolProfile>
-          <PlungeFeedrate state="Default">40</PlungeFeedrate>
-          <CutFeedrate state="Default">800</CutFeedrate>
+          <PlungeFeedrate state="Default">500</PlungeFeedrate>
+          <CutFeedrate state="Default">1000</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
           <StartPoint state="Default" />
           <CustomMOPHeader state="Default" />
@@ -508,10 +508,10 @@
           <ToolDiameter state="Default">3</ToolDiameter>
           <ToolNumber state="Default">3</ToolNumber>
           <ToolProfile state="Default">EndMill</ToolProfile>
-          <PlungeFeedrate state="Default">40</PlungeFeedrate>
-          <CutFeedrate state="Default">800</CutFeedrate>
+          <PlungeFeedrate state="Default">500</PlungeFeedrate>
+          <CutFeedrate state="Default">1000</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
-          <StartPoint state="Default" />
+          <StartPoint state="Default">0,0,0</StartPoint>
           <CustomMOPHeader state="Default" />
           <CustomMOPFooter state="Default" />
           <Name>Rohr</Name>
@@ -531,7 +531,6 @@
           <FinalDepthIncrement state="Default">0</FinalDepthIncrement>
           <CutOrdering state="Default">DepthFirst</CutOrdering>
           <StepOver state="Default">0.4</StepOver>
-          <StepoverFeedrate state="Default">Eintauch-Vorschub</StepoverFeedrate>
           <MillingDirection state="Default">Conventional</MillingDirection>
           <CollisionDetection state="Default">True</CollisionDetection>
           <LeadInMove state="Default" />
@@ -547,10 +546,10 @@
           <ToolDiameter state="Default">6</ToolDiameter>
           <ToolNumber state="Value">6</ToolNumber>
           <ToolProfile state="Default">EndMill</ToolProfile>
-          <PlungeFeedrate state="Default">40</PlungeFeedrate>
-          <CutFeedrate state="Default">800</CutFeedrate>
+          <PlungeFeedrate state="Default">500</PlungeFeedrate>
+          <CutFeedrate state="Default">1000</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
-          <StartPoint state="Default" />
+          <StartPoint state="Default">0,0,0</StartPoint>
           <CustomMOPHeader state="Default" />
           <CustomMOPFooter state="Default" />
           <Name>Welle</Name>
@@ -582,8 +581,8 @@
           <ToolDiameter state="Auto">2</ToolDiameter>
           <ToolNumber state="Value">12</ToolNumber>
           <ToolProfile state="Default">Drill</ToolProfile>
-          <PlungeFeedrate state="Default">40</PlungeFeedrate>
-          <CutFeedrate state="Default">800</CutFeedrate>
+          <PlungeFeedrate state="Default">500</PlungeFeedrate>
+          <CutFeedrate state="Default">1000</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
           <StartPoint state="Default" />
           <CustomMOPHeader state="Default" />
@@ -624,10 +623,10 @@
           <ToolDiameter state="Default">2</ToolDiameter>
           <ToolNumber state="Value">12</ToolNumber>
           <ToolProfile state="Default">Drill</ToolProfile>
-          <PlungeFeedrate state="Default">40</PlungeFeedrate>
-          <CutFeedrate state="Default">800</CutFeedrate>
+          <PlungeFeedrate state="Default">500</PlungeFeedrate>
+          <CutFeedrate state="Default">1000</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
-          <StartPoint state="Default" />
+          <StartPoint state="Default">0,0,0</StartPoint>
           <CustomMOPHeader state="Default" />
           <CustomMOPFooter state="Default" />
           <Name>Bohren-Wellenbefestigung</Name>
@@ -676,8 +675,8 @@
           <ToolDiameter state="Default">3</ToolDiameter>
           <ToolNumber state="Default">3</ToolNumber>
           <ToolProfile state="Default">EndMill</ToolProfile>
-          <PlungeFeedrate state="Default">40</PlungeFeedrate>
-          <CutFeedrate state="Default">800</CutFeedrate>
+          <PlungeFeedrate state="Default">500</PlungeFeedrate>
+          <CutFeedrate state="Default">1000</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
           <StartPoint state="Default" />
           <CustomMOPHeader state="Default" />
@@ -764,8 +763,8 @@
           <ToolDiameter state="Default">3</ToolDiameter>
           <ToolNumber state="Default">3</ToolNumber>
           <ToolProfile state="Default">EndMill</ToolProfile>
-          <PlungeFeedrate state="Default">40</PlungeFeedrate>
-          <CutFeedrate state="Default">800</CutFeedrate>
+          <PlungeFeedrate state="Default">500</PlungeFeedrate>
+          <CutFeedrate state="Default">1000</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
           <StartPoint state="Default" />
           <CustomMOPHeader state="Default" />
@@ -809,8 +808,8 @@
           <ToolDiameter state="Auto">3</ToolDiameter>
           <ToolNumber state="Value">3</ToolNumber>
           <ToolProfile state="Default">EndMill</ToolProfile>
-          <PlungeFeedrate state="Default">40</PlungeFeedrate>
-          <CutFeedrate state="Default">800</CutFeedrate>
+          <PlungeFeedrate state="Default">500</PlungeFeedrate>
+          <CutFeedrate state="Default">1000</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
           <StartPoint state="Default" />
           <CustomMOPHeader state="Default" />
@@ -866,8 +865,8 @@
           <ToolDiameter state="Default">3</ToolDiameter>
           <ToolNumber state="Default">3</ToolNumber>
           <ToolProfile state="Default">EndMill</ToolProfile>
-          <PlungeFeedrate state="Default">40</PlungeFeedrate>
-          <CutFeedrate state="Default">800</CutFeedrate>
+          <PlungeFeedrate state="Default">500</PlungeFeedrate>
+          <CutFeedrate state="Default">1000</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
           <StartPoint state="Default" />
           <CustomMOPHeader state="Default" />
@@ -905,8 +904,8 @@
           <ToolDiameter state="Default">6</ToolDiameter>
           <ToolNumber state="Value">6</ToolNumber>
           <ToolProfile state="Default">EndMill</ToolProfile>
-          <PlungeFeedrate state="Default">40</PlungeFeedrate>
-          <CutFeedrate state="Default">800</CutFeedrate>
+          <PlungeFeedrate state="Default">500</PlungeFeedrate>
+          <CutFeedrate state="Default">1000</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
           <StartPoint state="Default" />
           <CustomMOPHeader state="Default" />
@@ -940,8 +939,8 @@
           <ToolDiameter state="Auto">2</ToolDiameter>
           <ToolNumber state="Value">12</ToolNumber>
           <ToolProfile state="Default">Drill</ToolProfile>
-          <PlungeFeedrate state="Default">40</PlungeFeedrate>
-          <CutFeedrate state="Default">800</CutFeedrate>
+          <PlungeFeedrate state="Default">500</PlungeFeedrate>
+          <CutFeedrate state="Default">1000</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
           <StartPoint state="Default" />
           <CustomMOPHeader state="Default" />
@@ -982,10 +981,10 @@
           <ToolDiameter state="Default">2</ToolDiameter>
           <ToolNumber state="Value">12</ToolNumber>
           <ToolProfile state="Default">Drill</ToolProfile>
-          <PlungeFeedrate state="Default">40</PlungeFeedrate>
-          <CutFeedrate state="Default">800</CutFeedrate>
+          <PlungeFeedrate state="Default">500</PlungeFeedrate>
+          <CutFeedrate state="Default">1000</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
-          <StartPoint state="Default" />
+          <StartPoint state="Default">0,0,0</StartPoint>
           <CustomMOPHeader state="Default" />
           <CustomMOPFooter state="Default" />
           <Name>Bohren-Wellenbefestigung</Name>

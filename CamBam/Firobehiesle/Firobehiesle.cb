@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<CADFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="0.9.8.0" Name="zum60sten">
+<CADFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="0.9.8.0" Name="Firobehiesle">
   <layers>
     <layer name="Standard" color="127,255,0">
       <ModificationCount>0</ModificationCount>
       <objects>
-        <text id="1" p1="-6,110,0" Height="94.4" Font="Comic Sans MS" align="bottom,left">
-          <ModificationCount>25</ModificationCount>
-          <mat m="Identity" />Firmung</text>
-        <text id="92" p1="36,0,0" Height="112" Font="Comic Sans MS" align="bottom,left">
-          <ModificationCount>14</ModificationCount>
-          <mat m="Identity" />2013</text>
+        <text id="1" p1="200,140,0" Height="50" Font="Comic Sans MS" align="bottom,center">
+          <ModificationCount>17</ModificationCount>
+          <mat m="Identity" />im Stumbe si</text>
+        <text id="2" p1="200,40,0" Height="70" Font="Comic Sans MS" align="bottom,center">
+          <ModificationCount>8</ModificationCount>
+          <mat m="Identity" />Firobehiesli</text>
       </objects>
     </layer>
   </layers>
   <MachiningOptions>
     <OutFile>{$cbfile.name}.nc</OutFile>
     <Stock>
-      <PMin>0,0</PMin>
-      <PMax>0,0</PMax>
+      <PMin>0,0,-20</PMin>
+      <PMax>400,220</PMax>
       <Color>255,165,0</Color>
     </Stock>
     <ToolProfile>Unspecified</ToolProfile>
@@ -29,16 +29,16 @@
           <WorkPlane state="Default">XY</WorkPlane>
           <OptimisationMode state="Default">Experimental</OptimisationMode>
           <RoughingFinishing state="Default">Roughing</RoughingFinishing>
-          <ToolDiameter state="Default">8</ToolDiameter>
-          <ToolNumber state="Value">8</ToolNumber>
+          <ToolDiameter state="Default">3</ToolDiameter>
+          <ToolNumber state="Value">3</ToolNumber>
           <ToolProfile state="Default">EndMill</ToolProfile>
-          <PlungeFeedrate state="Value">40</PlungeFeedrate>
-          <CutFeedrate state="Value">120</CutFeedrate>
+          <PlungeFeedrate state="Default">300</PlungeFeedrate>
+          <CutFeedrate state="Value">1000</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
           <StartPoint state="Default" />
           <CustomMOPHeader state="Default" />
           <CustomMOPFooter state="Default" />
-          <Name>Tasche-2013</Name>
+          <Name>Tasche1</Name>
           <StockSurface state="Default">0</StockSurface>
           <RoughingClearance state="Default">0</RoughingClearance>
           <ClearancePlane state="Default">3</ClearancePlane>
@@ -47,10 +47,10 @@
           <SpindleRange state="Default">0</SpindleRange>
           <VelocityMode state="Default">Undefined</VelocityMode>
           <primitive>
-            <prim>92</prim>
+            <prim>1</prim>
           </primitive>
           <TargetDepth state="Value">-8</TargetDepth>
-          <DepthIncrement state="Default">4</DepthIncrement>
+          <DepthIncrement state="Value">4</DepthIncrement>
           <FinalDepthIncrement state="Default">0</FinalDepthIncrement>
           <CutOrdering state="Default">DepthFirst</CutOrdering>
           <StepOver state="Default">0.4</StepOver>
@@ -67,16 +67,16 @@
           <WorkPlane state="Default">XY</WorkPlane>
           <OptimisationMode state="Default">Experimental</OptimisationMode>
           <RoughingFinishing state="Default">Roughing</RoughingFinishing>
-          <ToolDiameter state="Default">6</ToolDiameter>
-          <ToolNumber state="Value">6</ToolNumber>
+          <ToolDiameter state="Default">3</ToolDiameter>
+          <ToolNumber state="Value">3</ToolNumber>
           <ToolProfile state="Default">EndMill</ToolProfile>
-          <PlungeFeedrate state="Value">40</PlungeFeedrate>
-          <CutFeedrate state="Value">120</CutFeedrate>
+          <PlungeFeedrate state="Default">300</PlungeFeedrate>
+          <CutFeedrate state="Value">1000</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
           <StartPoint state="Default" />
           <CustomMOPHeader state="Default" />
           <CustomMOPFooter state="Default" />
-          <Name>Tasche-Firmung</Name>
+          <Name>Tasche2</Name>
           <StockSurface state="Default">0</StockSurface>
           <RoughingClearance state="Default">0</RoughingClearance>
           <ClearancePlane state="Default">3</ClearancePlane>
@@ -85,10 +85,10 @@
           <SpindleRange state="Default">0</SpindleRange>
           <VelocityMode state="Default">Undefined</VelocityMode>
           <primitive>
-            <prim>1</prim>
+            <prim>2</prim>
           </primitive>
           <TargetDepth state="Value">-8</TargetDepth>
-          <DepthIncrement state="Default">4</DepthIncrement>
+          <DepthIncrement state="Value">4</DepthIncrement>
           <FinalDepthIncrement state="Default">0</FinalDepthIncrement>
           <CutOrdering state="Default">DepthFirst</CutOrdering>
           <StepOver state="Default">0.4</StepOver>
@@ -108,9 +108,8 @@
         <Color>255,165,0</Color>
       </Stock>
       <ToolProfile>Unspecified</ToolProfile>
-      <MachiningOrigin>0,0</MachiningOrigin>
       <Nesting>
-        <BasePoint>0,0</BasePoint>
+        <BasePoint />
         <NestMethod>None</NestMethod>
       </Nesting>
     </part>

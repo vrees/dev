@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<CADFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="0.9.8.0" Name="zum60sten">
+<CADFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="0.9.8.0" Name="Firobehiesle">
   <layers>
     <layer name="Standard" color="127,255,0">
       <ModificationCount>0</ModificationCount>
       <objects>
-        <text id="1" p1="-6,110,0" Height="94.4" Font="Comic Sans MS" align="bottom,left">
-          <ModificationCount>25</ModificationCount>
-          <mat m="Identity" />Firmung</text>
-        <text id="92" p1="36,0,0" Height="112" Font="Comic Sans MS" align="bottom,left">
-          <ModificationCount>14</ModificationCount>
-          <mat m="Identity" />2013</text>
+        <text id="92" Height="112" Font="Comic Sans MS" align="bottom,left">
+          <ModificationCount>24</ModificationCount>
+          <mat m="Identity" />zum 60.</text>
+        <text id="1" Height="112" Font="Comic Sans MS" align="bottom,left">
+          <ModificationCount>7</ModificationCount>
+          <mat m="Identity" />Gebur</text>
+        <text id="2" Height="112" Font="Comic Sans MS" align="bottom,left">
+          <ModificationCount>3</ModificationCount>
+          <mat m="Identity" />tstag</text>
       </objects>
     </layer>
   </layers>
@@ -32,13 +35,13 @@
           <ToolDiameter state="Default">8</ToolDiameter>
           <ToolNumber state="Value">8</ToolNumber>
           <ToolProfile state="Default">EndMill</ToolProfile>
-          <PlungeFeedrate state="Value">40</PlungeFeedrate>
-          <CutFeedrate state="Value">120</CutFeedrate>
+          <PlungeFeedrate state="Value">60</PlungeFeedrate>
+          <CutFeedrate state="Value">500</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
-          <StartPoint state="Default" />
+          <StartPoint state="Default">0,0,0</StartPoint>
           <CustomMOPHeader state="Default" />
           <CustomMOPFooter state="Default" />
-          <Name>Tasche-2013</Name>
+          <Name>zum60</Name>
           <StockSurface state="Default">0</StockSurface>
           <RoughingClearance state="Default">0</RoughingClearance>
           <ClearancePlane state="Default">3</ClearancePlane>
@@ -49,7 +52,7 @@
           <primitive>
             <prim>92</prim>
           </primitive>
-          <TargetDepth state="Value">-8</TargetDepth>
+          <TargetDepth state="Value">-4</TargetDepth>
           <DepthIncrement state="Default">4</DepthIncrement>
           <FinalDepthIncrement state="Default">0</FinalDepthIncrement>
           <CutOrdering state="Default">DepthFirst</CutOrdering>
@@ -67,16 +70,16 @@
           <WorkPlane state="Default">XY</WorkPlane>
           <OptimisationMode state="Default">Experimental</OptimisationMode>
           <RoughingFinishing state="Default">Roughing</RoughingFinishing>
-          <ToolDiameter state="Default">6</ToolDiameter>
-          <ToolNumber state="Value">6</ToolNumber>
+          <ToolDiameter state="Default">8</ToolDiameter>
+          <ToolNumber state="Value">8</ToolNumber>
           <ToolProfile state="Default">EndMill</ToolProfile>
-          <PlungeFeedrate state="Value">40</PlungeFeedrate>
-          <CutFeedrate state="Value">120</CutFeedrate>
+          <PlungeFeedrate state="Value">60</PlungeFeedrate>
+          <CutFeedrate state="Value">500</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
-          <StartPoint state="Default" />
+          <StartPoint state="Default">0,0,0</StartPoint>
           <CustomMOPHeader state="Default" />
           <CustomMOPFooter state="Default" />
-          <Name>Tasche-Firmung</Name>
+          <Name>zum1</Name>
           <StockSurface state="Default">0</StockSurface>
           <RoughingClearance state="Default">0</RoughingClearance>
           <ClearancePlane state="Default">3</ClearancePlane>
@@ -87,7 +90,45 @@
           <primitive>
             <prim>1</prim>
           </primitive>
-          <TargetDepth state="Value">-8</TargetDepth>
+          <TargetDepth state="Value">-4</TargetDepth>
+          <DepthIncrement state="Default">4</DepthIncrement>
+          <FinalDepthIncrement state="Default">0</FinalDepthIncrement>
+          <CutOrdering state="Default">DepthFirst</CutOrdering>
+          <StepOver state="Default">0.4</StepOver>
+          <StepoverFeedrate state="Default">Eintauch-Vorschub</StepoverFeedrate>
+          <MillingDirection state="Default">Conventional</MillingDirection>
+          <CollisionDetection state="Default">True</CollisionDetection>
+          <LeadInMove state="Default" />
+          <LeadOutMove state="Default" />
+          <RegionFillStyle state="Default">InsideOutsideOffsets</RegionFillStyle>
+          <FinishStepover state="Default">0</FinishStepover>
+          <FinishStepoverAtTargetDepth state="Default">False</FinishStepoverAtTargetDepth>
+        </pocket>
+        <pocket>
+          <WorkPlane state="Default">XY</WorkPlane>
+          <OptimisationMode state="Default">Experimental</OptimisationMode>
+          <RoughingFinishing state="Default">Roughing</RoughingFinishing>
+          <ToolDiameter state="Default">8</ToolDiameter>
+          <ToolNumber state="Value">8</ToolNumber>
+          <ToolProfile state="Default">EndMill</ToolProfile>
+          <PlungeFeedrate state="Value">60</PlungeFeedrate>
+          <CutFeedrate state="Value">500</CutFeedrate>
+          <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
+          <StartPoint state="Default">0,0,0</StartPoint>
+          <CustomMOPHeader state="Default" />
+          <CustomMOPFooter state="Default" />
+          <Name>zum2</Name>
+          <StockSurface state="Default">0</StockSurface>
+          <RoughingClearance state="Default">0</RoughingClearance>
+          <ClearancePlane state="Default">3</ClearancePlane>
+          <SpindleDirection state="Default">CW</SpindleDirection>
+          <SpindleSpeed state="Default">1000</SpindleSpeed>
+          <SpindleRange state="Default">0</SpindleRange>
+          <VelocityMode state="Default">Undefined</VelocityMode>
+          <primitive>
+            <prim>2</prim>
+          </primitive>
+          <TargetDepth state="Value">-4</TargetDepth>
           <DepthIncrement state="Default">4</DepthIncrement>
           <FinalDepthIncrement state="Default">0</FinalDepthIncrement>
           <CutOrdering state="Default">DepthFirst</CutOrdering>

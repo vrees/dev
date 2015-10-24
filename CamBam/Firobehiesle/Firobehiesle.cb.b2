@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CADFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="0.9.8.0" Name="Firobehiesle">
+  <layers>
+    <layer name="Standard" color="127,255,0">
+      <ModificationCount>0</ModificationCount>
+      <objects>
+        <text id="1" p1="200,140,0" Height="50" Font="Comic Sans MS" align="bottom,center">
+          <ModificationCount>17</ModificationCount>
+          <mat m="Identity" />im Stumbe si</text>
+        <text id="2" p1="200,40,0" Height="70" Font="Comic Sans MS" align="bottom,center">
+          <ModificationCount>8</ModificationCount>
+          <mat m="Identity" />Firobehiesli</text>
+      </objects>
+    </layer>
+  </layers>
+  <MachiningOptions>
+    <OutFile>{$cbfile.name}.nc</OutFile>
+    <Stock>
+      <PMin>0,0,-20</PMin>
+      <PMax>400,220</PMax>
+      <Color>255,165,0</Color>
+    </Stock>
+    <ToolProfile>Unspecified</ToolProfile>
+  </MachiningOptions>
+  <parts />
+  <ActiveLayer>Standard</ActiveLayer>
+</CADFile>
