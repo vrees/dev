@@ -5,10 +5,10 @@
       <ModificationCount>0</ModificationCount>
       <objects>
         <text id="1" p1="200,140,0" Height="50" Font="Comic Sans MS" align="bottom,center">
-          <ModificationCount>17</ModificationCount>
+          <ModificationCount>19</ModificationCount>
           <mat m="Identity" />im Stumbe si</text>
         <text id="2" p1="200,40,0" Height="70" Font="Comic Sans MS" align="bottom,center">
-          <ModificationCount>8</ModificationCount>
+          <ModificationCount>10</ModificationCount>
           <mat m="Identity" />Firobehiesli</text>
       </objects>
     </layer>
@@ -29,8 +29,8 @@
           <WorkPlane state="Default">XY</WorkPlane>
           <OptimisationMode state="Default">Experimental</OptimisationMode>
           <RoughingFinishing state="Default">Roughing</RoughingFinishing>
-          <ToolDiameter state="Default">3</ToolDiameter>
-          <ToolNumber state="Value">3</ToolNumber>
+          <ToolDiameter state="Default">4</ToolDiameter>
+          <ToolNumber state="Value">4</ToolNumber>
           <ToolProfile state="Default">EndMill</ToolProfile>
           <PlungeFeedrate state="Default">300</PlungeFeedrate>
           <CutFeedrate state="Value">1000</CutFeedrate>
@@ -49,8 +49,8 @@
           <primitive>
             <prim>1</prim>
           </primitive>
-          <TargetDepth state="Value">-8</TargetDepth>
-          <DepthIncrement state="Value">4</DepthIncrement>
+          <TargetDepth state="Value">-5</TargetDepth>
+          <DepthIncrement state="Value">3</DepthIncrement>
           <FinalDepthIncrement state="Default">0</FinalDepthIncrement>
           <CutOrdering state="Default">DepthFirst</CutOrdering>
           <StepOver state="Default">0.4</StepOver>
@@ -67,8 +67,8 @@
           <WorkPlane state="Default">XY</WorkPlane>
           <OptimisationMode state="Default">Experimental</OptimisationMode>
           <RoughingFinishing state="Default">Roughing</RoughingFinishing>
-          <ToolDiameter state="Default">3</ToolDiameter>
-          <ToolNumber state="Value">3</ToolNumber>
+          <ToolDiameter state="Default">4</ToolDiameter>
+          <ToolNumber state="Value">4</ToolNumber>
           <ToolProfile state="Default">EndMill</ToolProfile>
           <PlungeFeedrate state="Default">300</PlungeFeedrate>
           <CutFeedrate state="Value">1000</CutFeedrate>
@@ -87,8 +87,8 @@
           <primitive>
             <prim>2</prim>
           </primitive>
-          <TargetDepth state="Value">-8</TargetDepth>
-          <DepthIncrement state="Value">4</DepthIncrement>
+          <TargetDepth state="Value">-5</TargetDepth>
+          <DepthIncrement state="Value">3</DepthIncrement>
           <FinalDepthIncrement state="Default">0</FinalDepthIncrement>
           <CutOrdering state="Default">DepthFirst</CutOrdering>
           <StepOver state="Default">0.4</StepOver>
@@ -109,7 +109,7 @@
       </Stock>
       <ToolProfile>Unspecified</ToolProfile>
       <Nesting>
-        <BasePoint />
+        <BasePoint>0,0</BasePoint>
         <NestMethod>None</NestMethod>
       </Nesting>
     </part>
