@@ -1,0 +1,10 @@
+**/.settings
+**/.project
+**/.classpath
+**/.checkstyle
+**/target
+**/log
+/.project
+
+workspace.xml
+tasks.xml
