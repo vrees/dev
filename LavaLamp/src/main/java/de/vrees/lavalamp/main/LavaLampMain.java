@@ -37,6 +37,7 @@ public class LavaLampMain {
         } catch (ParseException e) {
 //            e.printStackTrace();
 
+
             HelpFormatter formatter = new HelpFormatter();
             formatter.printHelp(getClass().getSimpleName(), options);
         }
