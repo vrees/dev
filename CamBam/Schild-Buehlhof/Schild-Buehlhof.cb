@@ -224,7 +224,7 @@
           <CutWidth state="Default">0</CutWidth>
           <StepOver state="Default">0.4</StepOver>
           <StepoverFeedrate state="Default">Eintauch-Vorschub</StepoverFeedrate>
-          <InsideOutside state="Default">Outside</InsideOutside>
+          <InsideOutside state="Value">Inside</InsideOutside>
           <MillingDirection state="Default">Conventional</MillingDirection>
           <CollisionDetection state="Default">True</CollisionDetection>
           <CornerOvercut state="Default">False</CornerOvercut>
