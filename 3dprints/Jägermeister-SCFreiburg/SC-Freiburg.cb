@@ -5,7 +5,7 @@
       <ModificationCount>0</ModificationCount>
       <objects>
         <pline id="1" Closed="true">
-          <ModificationCount>200</ModificationCount>
+          <ModificationCount>202</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>4.01240677878257E-13,-54.0854387293652,0</p>
@@ -131,7 +131,7 @@
           </pts>
         </pline>
         <line id="2">
-          <ModificationCount>200</ModificationCount>
+          <ModificationCount>202</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-80.5343201515066,-5.78500130002616E-13</p>
@@ -139,7 +139,7 @@
           </pts>
         </line>
         <pline id="3" Closed="true">
-          <ModificationCount>200</ModificationCount>
+          <ModificationCount>202</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>4.16756952666714E-13,-56.1854387293651,0</p>
@@ -265,7 +265,7 @@
           </pts>
         </pline>
         <pline id="4" Closed="true">
-          <ModificationCount>200</ModificationCount>
+          <ModificationCount>202</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>4.46777134336343E-13,-60.2484230710142,0</p>
@@ -391,7 +391,7 @@
           </pts>
         </pline>
         <pline id="5" Closed="true">
-          <ModificationCount>200</ModificationCount>
+          <ModificationCount>202</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>4.91109348017645E-13,-66.2484230710142,0</p>
@@ -517,7 +517,7 @@
           </pts>
         </pline>
         <pline id="8" Closed="true">
-          <ModificationCount>200</ModificationCount>
+          <ModificationCount>202</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>17.3243895609257,39.2565106694344,0</p>
@@ -527,7 +527,7 @@
           </pts>
         </pline>
         <spline id="33" deg="5" flags="8" ktol="1E-09" cptol="1E-10" ftol="1E-10">
-          <ModificationCount>200</ModificationCount>
+          <ModificationCount>202</ModificationCount>
           <mat m="Identity" />
           <knots>
             <k>0</k>
@@ -2989,7 +2989,7 @@
           <fit />
         </spline>
         <spline id="34" deg="5" flags="8" ktol="1E-09" cptol="1E-10" ftol="1E-10">
-          <ModificationCount>200</ModificationCount>
+          <ModificationCount>202</ModificationCount>
           <mat m="Identity" />
           <knots>
             <k>0</k>
@@ -3231,7 +3231,7 @@
           <fit />
         </spline>
         <spline id="35" deg="5" flags="8" ktol="1E-09" cptol="1E-10" ftol="1E-10">
-          <ModificationCount>200</ModificationCount>
+          <ModificationCount>202</ModificationCount>
           <mat m="Identity" />
           <knots>
             <k>0</k>
@@ -3518,7 +3518,7 @@
           <fit />
         </spline>
         <spline id="36" deg="5" flags="8" ktol="1E-09" cptol="1E-10" ftol="1E-10">
-          <ModificationCount>200</ModificationCount>
+          <ModificationCount>202</ModificationCount>
           <mat m="Identity" />
           <knots>
             <k>0</k>
@@ -3835,7 +3835,7 @@
           <fit />
         </spline>
         <spline id="37" deg="5" flags="8" ktol="1E-09" cptol="1E-10" ftol="1E-10">
-          <ModificationCount>200</ModificationCount>
+          <ModificationCount>202</ModificationCount>
           <mat m="Identity" />
           <knots>
             <k>0</k>
@@ -4137,7 +4137,7 @@
           <fit />
         </spline>
         <spline id="38" deg="5" flags="8" ktol="1E-09" cptol="1E-10" ftol="1E-10">
-          <ModificationCount>200</ModificationCount>
+          <ModificationCount>202</ModificationCount>
           <mat m="Identity" />
           <knots>
             <k>0</k>
@@ -4364,7 +4364,7 @@
           <fit />
         </spline>
         <spline id="39" deg="5" flags="8" ktol="1E-09" cptol="1E-10" ftol="1E-10">
-          <ModificationCount>200</ModificationCount>
+          <ModificationCount>202</ModificationCount>
           <mat m="Identity" />
           <knots>
             <k>0</k>
@@ -4621,7 +4621,7 @@
           <fit />
         </spline>
         <spline id="40" deg="5" flags="8" ktol="1E-09" cptol="1E-10" ftol="1E-10">
-          <ModificationCount>200</ModificationCount>
+          <ModificationCount>202</ModificationCount>
           <mat m="Identity" />
           <knots>
             <k>0</k>
@@ -4953,7 +4953,7 @@
           <fit />
         </spline>
         <spline id="41" deg="5" flags="8" ktol="1E-09" cptol="1E-10" ftol="1E-10">
-          <ModificationCount>200</ModificationCount>
+          <ModificationCount>202</ModificationCount>
           <mat m="Identity" />
           <knots>
             <k>0</k>
@@ -5210,7 +5210,7 @@
           <fit />
         </spline>
         <spline id="42" deg="5" flags="8" ktol="1E-09" cptol="1E-10" ftol="1E-10">
-          <ModificationCount>200</ModificationCount>
+          <ModificationCount>202</ModificationCount>
           <mat m="Identity" />
           <knots>
             <k>0</k>
@@ -5407,7 +5407,7 @@
           <fit />
         </spline>
         <spline id="43" deg="5" flags="8" ktol="1E-09" cptol="1E-10" ftol="1E-10">
-          <ModificationCount>200</ModificationCount>
+          <ModificationCount>202</ModificationCount>
           <mat m="Identity" />
           <knots>
             <k>0</k>
@@ -5859,7 +5859,7 @@
           <fit />
         </spline>
         <spline id="44" deg="5" flags="8" ktol="1E-09" cptol="1E-10" ftol="1E-10">
-          <ModificationCount>200</ModificationCount>
+          <ModificationCount>202</ModificationCount>
           <mat m="Identity" />
           <knots>
             <k>0</k>
@@ -6101,7 +6101,7 @@
           <fit />
         </spline>
         <pline id="46" Closed="true">
-          <ModificationCount>201</ModificationCount>
+          <ModificationCount>203</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>67.4365962194611,-26.6935886641706,0</p>
@@ -6168,7 +6168,7 @@
           </pts>
         </pline>
         <pline id="82" Closed="true">
-          <ModificationCount>199</ModificationCount>
+          <ModificationCount>201</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>29.8583870588658,24.7561169754163,0</p>
@@ -6196,7 +6196,7 @@
           </pts>
         </pline>
         <pline id="83" Closed="true">
-          <ModificationCount>199</ModificationCount>
+          <ModificationCount>201</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>33.0327378028154,26.8079893852239,0</p>
@@ -6234,7 +6234,7 @@
           </pts>
         </pline>
         <pline id="342" Closed="true">
-          <ModificationCount>199</ModificationCount>
+          <ModificationCount>201</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>33.0322965735769,30.2556862661678,0</p>
@@ -7003,8 +7003,8 @@
           <WorkPlane state="Default">XY</WorkPlane>
           <OptimisationMode state="Default">Experimental</OptimisationMode>
           <RoughingFinishing state="Default">Roughing</RoughingFinishing>
-          <ToolDiameter state="Default">2</ToolDiameter>
-          <ToolNumber state="Value">2</ToolNumber>
+          <ToolDiameter state="Default">1.5</ToolDiameter>
+          <ToolNumber state="Value">15</ToolNumber>
           <ToolProfile state="Default">EndMill</ToolProfile>
           <PlungeFeedrate state="Default">300</PlungeFeedrate>
           <CutFeedrate state="Default">800</CutFeedrate>
