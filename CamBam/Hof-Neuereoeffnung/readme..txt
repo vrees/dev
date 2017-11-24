@@ -1,4 +1,5 @@
-Tafel: 520x880 mm
+Tafel: 
+Fräss-Dimensionen: 520x880 mm
 
 ***** Texte vorbereiten ****
 - Zuerst mit Cambam text schreiben
