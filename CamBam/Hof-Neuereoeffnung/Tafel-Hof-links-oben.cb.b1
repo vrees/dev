@@ -3331,7 +3331,7 @@
         </profile>
         <profile Enabled="true">
           <TargetDepth state="Value">-6</TargetDepth>
-          <DepthIncrement state="Value">1</DepthIncrement>
+          <DepthIncrement state="Default">0.4</DepthIncrement>
           <FinalDepthIncrement state="Default">0</FinalDepthIncrement>
           <CutOrdering state="Default">DepthFirst</CutOrdering>
           <CutWidth state="Default">0</CutWidth>
