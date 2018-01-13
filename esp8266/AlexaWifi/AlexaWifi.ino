@@ -43,7 +43,8 @@ int geraeteCodes[5][2] = {
   {7734386, 7734385}   // Steckerleiste alle
 };
 
-void schalten(const char * device_name, bool state, int code_ein, int code_aus);
+void schalten(const char * device_name, bool state, int geraeteIndex);
+void codesAusgeben();
 
 void setup() {
   Serial.begin(115200);
@@ -53,6 +54,7 @@ void setup() {
 
   wifiSetup();
   geraete();
+  codesAusgeben();
 }
 
 void wifiSetup() {
@@ -74,35 +76,51 @@ void geraete() {
   alexawifi.addDevice("Weihnachtsbaum");//ID 0
   alexawifi.addDevice("Deko"); //ID 1
   alexawifi.addDevice("Steckerleiste"); //ID 2
+  alexawifi.addDevice("SteckerleisteVier"); //ID 2
   alexawifi.addDevice("Alle"); //ID 3
 
   alexawifi.onMessage(anfrage);
 }
 
 void anfrage(uint8_t device_id, const char * device_name, bool state) {
-  int index = device_id;
-  Serial.print("device_id: "); Serial.println(index);  
+  int geraeteIndex = (int) device_id;
+  Serial.print("device_id: "); Serial.println(geraeteIndex);
 
-  schalten(device_name, state, *geraeteCodes[index, 0], *geraeteCodes[index, 1]);
+  schalten(device_name, state, geraeteIndex);
 }
 
 
-void schalten(const char * device_name, bool state, int code_ein, int code_aus) {
+void schalten(const char * device_name, bool state, int geraeteIndex) {
   Serial.print("Gerät: "); Serial.println(device_name);
   Serial.print("Status: ");
 
   if (state) {
     Serial.print("EIN - ");
+    int code_ein = geraeteCodes[geraeteIndex][0];
     Serial.println(code_ein);
     mySwitch.send(code_ein, 24);
     delay(50);
   }
   else {
     Serial.print("AUS - ");
+    int code_aus = geraeteCodes[geraeteIndex][1];
     Serial.println(code_aus);
     mySwitch.send(code_aus, 24);
     delay(50);
   }
+}
+
+void codesAusgeben() {  
+  for (int row = 0; row < 5; row++)
+  {
+    for (int col = 0; col < 2; col++)
+    {
+      int code = geraeteCodes[row][col];
+      Serial.print(code);
+      Serial.print("\t");
+    }
+    Serial.println();
+  }  
 }
 
 void loop() {
