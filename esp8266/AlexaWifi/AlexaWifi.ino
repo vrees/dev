@@ -74,7 +74,7 @@ void wifiSetup() {
 
 void geraete() {
   alexawifi.addDevice("Weihnachtsbaum");//ID 0
-  alexawifi.addDevice("Deko"); //ID 1
+  alexawifi.addDevice("Dekoration"); //ID 1
   alexawifi.addDevice("Steckerleiste"); //ID 2
   alexawifi.addDevice("SteckerleisteVier"); //ID 2
   alexawifi.addDevice("Alle"); //ID 3
