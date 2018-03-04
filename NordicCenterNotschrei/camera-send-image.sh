@@ -1,4 +1,3 @@
-pi@raspigo:~ $ cat webcam/bin/camera-send-image.sh
 #!/bin/bash
 
 # Bilderverzeichnis
@@ -7,9 +6,7 @@ IMGDIR='/home/pi/webcam'
 # Zeitstempel fuer Dateinamen generieren,
 # %s: Sekunden seit 1970-01-01 00:00:00 UTC
 TIME=$(date +%Y%m%d%H%M%S)
-IMAGE_FILE=schiessstand1.jpg
-#IMAGE_FILE=dummy.jpg
-FTP_PATH=ftp://webcam_notschrei:notschrei16@server.sis-projekt.de/mx10-8-71-231/raspi-cam
+DISPLAY_TIME=$(date "+%Y-%m-%d_%H:%M:%S")
 
 YEAR=${TIME:0:4}
 MONTH=${TIME:4:2}
@@ -20,11 +17,19 @@ HOUR=${TIME:8:2}
 
 # Dateinamen erzeugen
 FILENAME=$IMGDIR/r${TIME}.jpg
+CURRENT_FILE=current.jpg
+echo Dateiname: $FILENAME
+echo Datum: $DISPLAY_TIME
 
 # Foto erstellen,  die Parameter -w und -h
 # reduzieren die Dateigroesse
-raspistill -o $FILENAME -w 1024 -h 768 -n -rot 180
+raspistill -vf -hf -o $CURRENT_FILE -w 1024 -h 768 -n
+
+convert -pointsize 30 -draw 'text 20,35 "'$DISPLAY_TIME'"' $CURRENT_FILE $FILENAME
 
 # Bild auf den FTP-Server uebertragen
-wput -B $FILENAME $FTP_PATH/$YEAR/$MONTH/$DAY/$HOUR/r${TIME}.jpg
-wput -B $FILENAME $FTP_PATH/$IMAGE_FILE
+wput -B $FILENAME ftp://webcam_notschrei:notschrei16@server.sis-projekt.de/mx10-8-71-231/raspi-cam/schiessstand1.jpg
+wput -B $FILENAME ftp://webcam_notschrei:notschrei16@server.sis-projekt.de/mx10-8-71-231/raspi-cam/$YEAR/$MONTH/$DAY/$HOUR/r${TIME}.jpg
+
+# loesche Bilder, die aelter als 14 Tage sind
+find $IMGDIR/* -mtime +14 -type f -delete
