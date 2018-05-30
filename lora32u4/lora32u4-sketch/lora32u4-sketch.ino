@@ -178,12 +178,12 @@ void onEvent (ev_t ev) {
 void do_send(osjob_t* j) {
   byte buffer[22];
   // It is a bad idea to send ASCII for real, only use this when developing!!
-  buffer[0]='A';
-  buffer[1]='B';
-  buffer[2]='C';
-  buffer[3]='D';
-  buffer[4]='E';
-  buffer[5]='F';
+  buffer[0]='6';
+  buffer[1]='5';
+  buffer[2]='4';
+  buffer[3]='3';
+  buffer[4]='2';
+  buffer[5]='1';
   if (LMIC.opmode & OP_TXRXPEND) {
     Serial.println(F("OP_TXRXPEND, not sending"));
   } else {
