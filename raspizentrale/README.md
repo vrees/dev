@@ -26,6 +26,8 @@ sudo systemctl enable nodered.service
 sudo service nodered restart
 ´´´
 
+wget http://www.jensd.de/apps/mqttfx/1.7.0/mqttfx-1.7.0-64bit.deb
+
 
 ## Mosquitto
 ´´´
