@@ -1,0 +1,12 @@
+Bitte die nötigen Libraries herunterladen und entpacken: 
+
+https://github.com/sui77/rc-switch/archive/master.zip
+https://github.com/me-no-dev/ESPAsyncTCP/archive/master.zip
+https://github.com/me-no-dev/ESPAsyncUDP/archive/master.zip
+https://github.com/me-no-dev/ESPAsyncWebServer/archive/master.zip
+https://bitbucket.org/xoseperez/fauxmoesp/downloads
+
+Dann in den Arduino Libraries Ordner schieben.
+Jetzt das Programm starten und die AlexaWifi Datei öffnen.
+
+Hilfe zur Installation: https://www.arduino.cc/en/Guide/Libraries
