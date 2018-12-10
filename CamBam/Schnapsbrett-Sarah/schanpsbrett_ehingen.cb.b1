@@ -5,7 +5,7 @@
       <ModificationCount>0</ModificationCount>
       <objects>
         <pline id="56" Closed="true">
-          <ModificationCount>1</ModificationCount>
+          <ModificationCount>3</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="-0.12353596079215176">653.437063587907,35.299271388825,0</p>
@@ -15,7 +15,7 @@
           </pts>
         </pline>
         <pline id="51" Closed="true">
-          <ModificationCount>1</ModificationCount>
+          <ModificationCount>3</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="0.087016785673672187">628.98220786986,10.7848209080088,0</p>
@@ -26,7 +26,7 @@
           </pts>
         </pline>
         <pline id="48" Closed="true">
-          <ModificationCount>1</ModificationCount>
+          <ModificationCount>3</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>590.5657188949,9.4927617575,0</p>
@@ -35,7 +35,7 @@
           </pts>
         </pline>
         <pline id="44" Closed="true">
-          <ModificationCount>1</ModificationCount>
+          <ModificationCount>3</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>589.0657188949,7.9414642192,0</p>
@@ -45,13 +45,34 @@
           </pts>
         </pline>
         <pline id="41">
-          <ModificationCount>1</ModificationCount>
+          <ModificationCount>3</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="0.414213562373095">629.4643731569,0,0</p>
             <p>664.4643731569,35,0</p>
             <p b="0.41421356237309503">664.4643731569,45,0</p>
             <p>629.4643731569,80,0</p>
+          </pts>
+        </pline>
+      </objects>
+    </layer>
+    <layer name="Koordinaten" color="127,255,0" visible="false">
+      <ModificationCount>1</ModificationCount>
+      <objects>
+        <pline id="2">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>655.308925217851,71.78644765,0</p>
+            <p>589.0657188949,7.88372270901559,0</p>
+          </pts>
+        </pline>
+        <pline id="3">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>589.0657188949,71.78644765,0</p>
+            <p>655.308925217851,7.88372270901559,0</p>
           </pts>
         </pline>
       </objects>
@@ -166,12 +187,13 @@
         <Color>255,165,0</Color>
       </Stock>
       <ToolProfile>Unspecified</ToolProfile>
+      <MachiningOrigin>622.186688074581,39.8315469645395</MachiningOrigin>
       <Nesting>
-        <BasePoint />
+        <BasePoint>0,0</BasePoint>
         <NestMethod>None</NestMethod>
       </Nesting>
     </part>
   </parts>
-  <ActiveLayer>0</ActiveLayer>
+  <ActiveLayer>Koordinaten</ActiveLayer>
   <ActivePart>Ehingen</ActivePart>
 </CADFile>
