@@ -14,11 +14,11 @@
             <p>-400,100,0</p>
           </pts>
         </rect>
-        <text id="7" p1="-27,60,0" Height="50" Font="Comic Sans MS" align="center,right">
-          <ModificationCount>11</ModificationCount>
+        <text id="7" p1="-27,70,0" Height="50" Font="Comic Sans MS" align="center,right">
+          <ModificationCount>14</ModificationCount>
           <mat m="Identity" />Ferien</text>
-        <text id="8" p1="-27,60,0" Height="50" Font="Comic Sans MS" align="center,left">
-          <ModificationCount>8</ModificationCount>
+        <text id="8" p1="-27,70,0" Height="50" Font="Comic Sans MS" align="center,left">
+          <ModificationCount>11</ModificationCount>
           <mat m="Identity" />wohnung</text>
         <text id="9" p1="-27,-20,0" Height="110" Font="Comic Sans MS" align="center,right">
           <ModificationCount>5</ModificationCount>
@@ -59,6 +59,7 @@
     </layer>
   </layers>
   <MachiningOptions>
+    <OutFile>{$cbfile.name}.nc</OutFile>
     <Stock>
       <PMin>0,0</PMin>
       <PMax>0,0</PMax>
