@@ -5,7 +5,7 @@
       <ModificationCount>0</ModificationCount>
       <objects>
         <rect id="1" Closed="true" p="-400,-100,0" w="800" h="130">
-          <ModificationCount>17</ModificationCount>
+          <ModificationCount>19</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-400,-100,0</p>
@@ -15,7 +15,7 @@
           </pts>
         </rect>
         <text id="9" p1="0.990209558084814,-24.2444517807361,0" p2="27.9902095580849,-4.24445178073609,0" Height="75" Font="Comic Sans MS" align="center,center" style="bold">
-          <ModificationCount>31</ModificationCount>
+          <ModificationCount>33</ModificationCount>
           <mat m="Identity" />Willkommen</text>
       </objects>
     </layer>
@@ -23,7 +23,7 @@
       <ModificationCount>8</ModificationCount>
       <objects>
         <pline id="2">
-          <ModificationCount>0</ModificationCount>
+          <ModificationCount>2</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-400,-100,0</p>
@@ -31,7 +31,7 @@
           </pts>
         </pline>
         <pline id="3">
-          <ModificationCount>0</ModificationCount>
+          <ModificationCount>2</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-400,30,0</p>
@@ -54,8 +54,8 @@
     <part Name="Willkommen">
       <machineops>
         <pocket Enabled="true">
-          <TargetDepth state="Value">-10</TargetDepth>
-          <DepthIncrement state="Value">0.8</DepthIncrement>
+          <TargetDepth state="Value">-5</TargetDepth>
+          <DepthIncrement state="Value">1</DepthIncrement>
           <FinalDepthIncrement state="Default">0</FinalDepthIncrement>
           <CutOrdering state="Default">DepthFirst</CutOrdering>
           <StepOver state="Default">0.4</StepOver>
