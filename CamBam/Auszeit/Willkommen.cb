@@ -5,7 +5,7 @@
       <ModificationCount>0</ModificationCount>
       <objects>
         <rect id="1" Closed="true" p="-400,-100,0" w="800" h="130">
-          <ModificationCount>19</ModificationCount>
+          <ModificationCount>21</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-400,-100,0</p>
@@ -15,7 +15,7 @@
           </pts>
         </rect>
         <text id="9" p1="0.990209558084814,-24.2444517807361,0" p2="27.9902095580849,-4.24445178073609,0" Height="75" Font="Comic Sans MS" align="center,center" style="bold">
-          <ModificationCount>33</ModificationCount>
+          <ModificationCount>35</ModificationCount>
           <mat m="Identity" />Willkommen</text>
       </objects>
     </layer>
@@ -23,7 +23,7 @@
       <ModificationCount>8</ModificationCount>
       <objects>
         <pline id="2">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-400,-100,0</p>
@@ -31,7 +31,7 @@
           </pts>
         </pline>
         <pline id="3">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-400,30,0</p>
@@ -86,7 +86,7 @@
           <PlungeFeedrate state="Default">300</PlungeFeedrate>
           <CutFeedrate state="Default">800</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
-          <StartPoint state="Default" />
+          <StartPoint state="Value">1.04673677880596,-34.7906526442388,0</StartPoint>
           <CustomMOPHeader state="Default" />
           <CustomMOPFooter state="Default" />
           <Name>Willkommen-Text</Name>
