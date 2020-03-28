@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CADFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="0.9.8.0" Name="Beate_und_Kathi">
+  <layers>
+    <layer name="Standard" color="127,255,0">
+      <ModificationCount>0</ModificationCount>
+      <objects>
+        <text id="4" p1="-550,18,0" p2="410.291892691175,18.0348798655632,0" Height="160" Font="Comic Sans MS" align="center,left" style="bold">
+          <ModificationCount>21</ModificationCount>
+          <mat m="Identity" />Beate</text>
+        <text id="5" p1="550,18,0" Height="160" Font="Comic Sans MS" align="center,right" style="bold">
+          <ModificationCount>15</ModificationCount>
+          <mat m="Identity" />Kathi</text>
+        <pline id="73" Closed="true">
+          <ModificationCount>8</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p b="0.12701665379258309">22.9865412980511,-29.6933497767608,0</p>
+            <p b="0.12701665379258306">26.9865412980511,-14.2014163919312,0</p>
+            <p b="0.25819888974716082">22.9865412980511,1.2905169928985,0</p>
+          </pts>
+        </pline>
+        <pline id="69" Closed="true">
+          <ModificationCount>8</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p b="-0.31065011911070711">16.3793984409082,-37.9994344452335,0</p>
+            <p b="0.32469521787284761">16.3793984409083,9.59660166137122,0</p>
+            <p b="0.57735026918962573">-21.0134587019489,13.5113965291709,0</p>
+            <p b="0.32469521787284761">-21.0134587019489,-41.9142293130332,0</p>
+          </pts>
+        </pline>
+        <pline id="66" Closed="true">
+          <ModificationCount>8</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p b="-0.15174830431232647">29.593684155194,9.59660166137122,0</p>
+            <p b="-0.15174830431232647">36.9865412980511,-14.2014163919312,0</p>
+            <p b="0.05220416776104525">29.593684155194,-37.9994344452335,0</p>
+            <p b="0.57735026918962573">34.9865412980511,-41.9142293130332,0</p>
+            <p b="0.57735026918962573">82.9865412980511,-14.2014163919312,0</p>
+            <p b="0.052204167761045472">34.9865412980511,13.5113965291709,0</p>
+          </pts>
+        </pline>
+        <pline id="64" Closed="true">
+          <ModificationCount>8</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p b="0.3240049065117292">22.9865412980511,17.1035352930659,0</p>
+            <p b="0.57735026918962573">-26.0134587019489,22.1716505670153,0</p>
+            <p b="0.3240049065117292">-26.0134587019489,-50.5744833508776,0</p>
+            <p b="0.051577884464734963">22.9865412980511,-45.5063680769282,0</p>
+            <p b="0.57735026918962573">29.9865412980511,-50.5744833508776,0</p>
+            <p b="0.57735026918962573">92.9865412980511,-14.2014163919312,0</p>
+            <p b="0.051577884464735137">29.9865412980511,22.1716505670153,0</p>
+          </pts>
+        </pline>
+        <text id="81" p1="23,-76,0" p2="-0.0134587019488919,-30.0144346920986,0" Height="32" Font="Comic Sans MS" align="center,center">
+          <ModificationCount>28</ModificationCount>
+          <mat m="Identity" />2020</text>
+        <text id="83" p1="23,56,0" p2="-0.0134587019488919,-30.0144346920986,0" Height="32" Font="Comic Sans MS" align="center,center">
+          <ModificationCount>26</ModificationCount>
+          <mat m="Identity" />19.09.</text>
+        <rect id="1" Closed="true" p="-600,-125,0" w="1200" h="230" radius="50">
+          <ModificationCount>22</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>-550,-125,0</p>
+            <p b="0.41421356237309503">550,-125,0</p>
+            <p>600,-75,0</p>
+            <p b="0.41421356237309503">600,55,0</p>
+            <p>550,105,0</p>
+            <p b="0.41421356237309503">-550,105,0</p>
+            <p>-600,55,0</p>
+            <p b="0.41421356237309503">-600,-75,0</p>
+          </pts>
+        </rect>
+      </objects>
+    </layer>
+    <layer name="Konstruktion" color="127,255,0" visible="false">
+      <ModificationCount>11</ModificationCount>
+      <objects>
+        <pline id="2">
+          <ModificationCount>2</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>-700,-200,0</p>
+            <p>700,200,0</p>
+          </pts>
+        </pline>
+        <pline id="3">
+          <ModificationCount>2</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>-700,200,0</p>
+            <p>700,-200,0</p>
+          </pts>
+        </pline>
+        <pline id="6">
+          <ModificationCount>2</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>-593.866141096786,0,0</p>
+            <p>581.409972807279,0,0</p>
+          </pts>
+        </pline>
+        <pline id="55">
+          <ModificationCount>2</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>23,-100,0</p>
+            <p>23,100,0</p>
+          </pts>
+        </pline>
+        <pline id="84">
+          <ModificationCount>2</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>-593.866141096786,-30,0</p>
+            <p>581.409972807279,-30,0</p>
+          </pts>
+        </pline>
+      </objects>
+    </layer>
+  </layers>
+  <MachiningOptions>
+    <Stock>
+      <PMin>0,0</PMin>
+      <PMax>0,0</PMax>
+      <Color>255,165,0</Color>
+    </Stock>
+    <ToolProfile>Unspecified</ToolProfile>
+  </MachiningOptions>
+  <parts />
+  <ActiveLayer>Standard</ActiveLayer>
+</CADFile>
