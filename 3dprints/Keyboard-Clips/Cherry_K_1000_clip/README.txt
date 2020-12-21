@@ -1,0 +1,1 @@
+Cherry KC 1000 stand clip by Daniel_1990 on Thingiverse: https://www.thingiverse.com/thing:4242716

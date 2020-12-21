@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CADFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="0.9.8.0" Name="Reagenzgglaesser">
+  <layers>
+    <layer name="Standard" color="127,255,0">
+      <ModificationCount>0</ModificationCount>
+      <objects>
+        <circle id="3" c="30,7,0" d="16.4">
+          <ModificationCount>74</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="4" c="80,7,0" d="16.4">
+          <ModificationCount>73</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="5" c="55,-7,0" d="16.4">
+          <ModificationCount>75</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="6" c="105,-7,0" d="16.4">
+          <ModificationCount>73</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="7" c="155,-7,0" d="16.4">
+          <ModificationCount>72</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="8" c="205,-7,0" d="16.4">
+          <ModificationCount>72</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="9" c="255,-7,0" d="16.4">
+          <ModificationCount>72</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="10" c="130,7,0" d="16.4">
+          <ModificationCount>74</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="11" c="180,7,0" d="16.4">
+          <ModificationCount>70</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="12" c="230,7,0" d="16.4">
+          <ModificationCount>70</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="13" c="280,7,0" d="16.4">
+          <ModificationCount>72</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="14" c="305,-7,0" d="16.4">
+          <ModificationCount>71</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+      </objects>
+    </layer>
+    <layer name="construction" color="127,255,0">
+      <ModificationCount>4</ModificationCount>
+      <objects>
+        <rect id="1" Closed="true" p="0,-22,0" w="700" h="44">
+          <ModificationCount>8</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>0,-22,0</p>
+            <p>700,-22,0</p>
+            <p>700,22,0</p>
+            <p>0,22,0</p>
+          </pts>
+        </rect>
+        <rect id="2" Closed="true" p="0,-7,0" w="335" h="14">
+          <ModificationCount>12</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>0,-7,0</p>
+            <p>335,-7,0</p>
+            <p>335,7,0</p>
+            <p>0,7,0</p>
+          </pts>
+        </rect>
+      </objects>
+    </layer>
+  </layers>
+  <MachiningOptions>
+    <Stock>
+      <PMin>0,0</PMin>
+      <PMax>0,0</PMax>
+      <Color>255,165,0</Color>
+    </Stock>
+    <ToolProfile>Unspecified</ToolProfile>
+  </MachiningOptions>
+  <parts>
+    <part Name="Brett">
+      <machineops>
+        <pocket Enabled="true">
+          <TargetDepth state="Value">-30</TargetDepth>
+          <DepthIncrement state="Value">1</DepthIncrement>
+          <FinalDepthIncrement state="Default">0</FinalDepthIncrement>
+          <CutOrdering state="Default">DepthFirst</CutOrdering>
+          <StepOver state="Default">0.4</StepOver>
+          <StepoverFeedrate state="Default">Eintauch-Vorschub</StepoverFeedrate>
+          <MillingDirection state="Default">Conventional</MillingDirection>
+          <CollisionDetection state="Default">True</CollisionDetection>
+          <RegionFillStyle state="Default">InsideOutsideOffsets</RegionFillStyle>
+          <FinishStepover state="Default">0</FinishStepover>
+          <FinishStepoverAtTargetDepth state="Default">False</FinishStepoverAtTargetDepth>
+          <StockSurface state="Default">0</StockSurface>
+          <RoughingClearance state="Default">0</RoughingClearance>
+          <ClearancePlane state="Default">3</ClearancePlane>
+          <SpindleDirection state="Default">CW</SpindleDirection>
+          <SpindleSpeed state="Default">1000</SpindleSpeed>
+          <SpindleRange state="Default">0</SpindleRange>
+          <VelocityMode state="Default">Undefined</VelocityMode>
+          <primitive>
+            <prim>3</prim>
+            <prim>4</prim>
+            <prim>5</prim>
+            <prim>6</prim>
+            <prim>7</prim>
+            <prim>8</prim>
+            <prim>9</prim>
+            <prim>10</prim>
+            <prim>11</prim>
+            <prim>12</prim>
+            <prim>13</prim>
+            <prim>14</prim>
+          </primitive>
+          <WorkPlane state="Default">XY</WorkPlane>
+          <OptimisationMode state="Default">Experimental</OptimisationMode>
+          <RoughingFinishing state="Default">Roughing</RoughingFinishing>
+          <ToolDiameter state="Default">6</ToolDiameter>
+          <ToolNumber state="Value">6</ToolNumber>
+          <ToolProfile state="Default">EndMill</ToolProfile>
+          <PlungeFeedrate state="Default">300</PlungeFeedrate>
+          <CutFeedrate state="Default">800</CutFeedrate>
+          <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
+          <Name>Bohrungen</Name>
+        </pocket>
+      </machineops>
+      <Stock>
+        <PMin>0,0</PMin>
+        <PMax>0,0</PMax>
+        <Color>255,165,0</Color>
+      </Stock>
+      <ToolProfile>Unspecified</ToolProfile>
+      <Nesting>
+        <BasePoint>0,0</BasePoint>
+        <NestMethod>None</NestMethod>
+      </Nesting>
+    </part>
+  </parts>
+  <ActiveLayer>construction</ActiveLayer>
+  <ActivePart>Brett</ActivePart>
+</CADFile>

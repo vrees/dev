@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CADFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="0.9.8.0" Name="Blume">
+  <layers>
+    <layer name="0" color="127,255,0">
+      <ModificationCount>0</ModificationCount>
+      <objects>
+        <circle id="2" c="-86.1142349105481,46.5782918574114,0" d="7.0000000000000053">
+          <ModificationCount>353</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <pline id="9">
+          <ModificationCount>1</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p b="-0.090991751213470556">-88.1347728665893,49.4361628076464,0</p>
+            <p b="-0.16530459037019288">-89.5140345231559,53.2221977437417,0</p>
+            <p b="-0.42290573530384618">-89.343947040383,57.5098313479399,0</p>
+            <p b="-0.42117466316354552">-85.7931205735596,58.6391052690138,0</p>
+            <p b="-0.091174335566548775">-83.5637107888293,52.1760118752389,0</p>
+            <p>-85.1752730067598,49.9499903230567,0</p>
+          </pts>
+        </pline>
+        <pline id="10">
+          <ModificationCount>1</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p b="0.068864404237837892">-85.1752730067598,49.9499903230567,0</p>
+            <p b="-0.12974391532093949">-82.6294109692094,53.6122531068666,0</p>
+            <p b="-0.29756912316310491">-80.5930085794476,56.135762581093,0</p>
+            <p b="-0.3364074743521725">-76.5172553680037,55.7324738197341,0</p>
+            <p b="-0.18086024428155964">-74.7694316450759,51.8638304926842,0</p>
+            <p b="-0.15139573317317978">-77.9301934359349,48.7712839824165,0</p>
+            <p>-82.7841044097945,47.6554319819777,0</p>
+          </pts>
+        </pline>
+        <pline id="11">
+          <ModificationCount>1</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p b="0.072732755483781372">-88.5955237014621,49.046733863229,0</p>
+            <p b="0.52933681471393546">-89.8185056209213,54.429603165705,0</p>
+            <p b="0.33955885962030036">-94.8623011508863,55.8311393932843,0</p>
+            <p b="-0.049533098762683851">-95.5614390123066,51.4815067433753,0</p>
+            <p b="0.061994296363083762">-94.5946078749778,50.010334729983,0</p>
+            <p b="0.45991838923685674">-96.6727320868961,50.4680638607155,0</p>
+            <p b="0.41999140389543527">-98.8348059788707,48.0586637022045,0</p>
+            <p b="0.02935178286158726">-95.6821984166286,44.5891028843492,0</p>
+            <p>-89.4446627514537,45.5020714355083,0</p>
+          </pts>
+        </pline>
+        <pline id="13">
+          <ModificationCount>1</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p b="0.097220717492712064">-85.8356570576814,43.0893959891041,0</p>
+            <p b="0.31057547710034888">-85.9273385828561,39.440922593159,0</p>
+            <p b="0.34669620710239907">-82.8245068034655,36.3239236304713,0</p>
+            <p b="0.41752346243620519">-78.3640846973002,37.8980298683507,0</p>
+            <p b="0.002354516033305058">-80.7647421568877,44.1074179097781,0</p>
+            <p>-83.0005423507244,44.9798805702584,0</p>
+          </pts>
+        </pline>
+        <pline id="12">
+          <ModificationCount>1</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p b="0.38626333924420814">-89.4446627514536,45.5020714355083,0</p>
+            <p b="0.59796918005876287">-94.8137279255737,40.8428164122366,0</p>
+            <p b="0.19493065470918991">-87.547036912284,37.27466663621,0</p>
+            <p>-85.8356570576814,43.0893959891041,0</p>
+          </pts>
+        </pline>
+        <pline id="14">
+          <ModificationCount>1</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p b="0.084806394927077908">-83.0109543749706,48.196825118579,0</p>
+            <p b="-0.17369199087658915">-79.2175189531894,48.5212539086306,0</p>
+            <p b="-0.479933609509447">-75.5991201205108,48.6235177952488,0</p>
+            <p b="-0.22653180798786557">-74.9028849305109,42.7302533058609,0</p>
+            <p b="-0.099390544564520414">-77.9773741451513,42.1753152929357,0</p>
+            <p>-83.0005423507244,44.9798805702584,0</p>
+          </pts>
+        </pline>
+      </objects>
+    </layer>
+  </layers>
+  <MachiningOptions>
+    <Stock>
+      <PMin>0,0</PMin>
+      <PMax>0,0</PMax>
+      <Color>255,165,0</Color>
+    </Stock>
+    <ToolProfile>Unspecified</ToolProfile>
+  </MachiningOptions>
+  <parts>
+    <part Name="Blume">
+      <machineops>
+        <engrave Enabled="true">
+          <TargetDepth state="Value">-1.2</TargetDepth>
+          <DepthIncrement state="Value">0.6</DepthIncrement>
+          <FinalDepthIncrement state="Default">0</FinalDepthIncrement>
+          <CutOrdering state="Default">DepthFirst</CutOrdering>
+          <StockSurface state="Default">0</StockSurface>
+          <RoughingClearance state="Default">0</RoughingClearance>
+          <ClearancePlane state="Default">3</ClearancePlane>
+          <SpindleDirection state="Default">CW</SpindleDirection>
+          <SpindleSpeed state="Default">1000</SpindleSpeed>
+          <SpindleRange state="Default">0</SpindleRange>
+          <VelocityMode state="Default">Undefined</VelocityMode>
+          <primitive>
+            <prim>2</prim>
+            <prim>9</prim>
+            <prim>10</prim>
+            <prim>11</prim>
+            <prim>12</prim>
+            <prim>13</prim>
+            <prim>14</prim>
+          </primitive>
+          <WorkPlane state="Default">XY</WorkPlane>
+          <OptimisationMode state="Default">Experimental</OptimisationMode>
+          <RoughingFinishing state="Default">Roughing</RoughingFinishing>
+          <ToolDiameter state="Value">2</ToolDiameter>
+          <ToolNumber state="Default">0</ToolNumber>
+          <ToolProfile state="Value">EndMill</ToolProfile>
+          <PlungeFeedrate state="Default">300</PlungeFeedrate>
+          <CutFeedrate state="Default">800</CutFeedrate>
+          <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
+          <StartPoint state="Default" />
+          <CustomMOPHeader state="Default" />
+          <CustomMOPFooter state="Default" />
+          <Name>Gravieren1</Name>
+        </engrave>
+      </machineops>
+      <Stock>
+        <PMin>0,0</PMin>
+        <PMax>0,0</PMax>
+        <Color>255,165,0</Color>
+      </Stock>
+      <ToolProfile>Unspecified</ToolProfile>
+      <MachiningOrigin>-85.9048226868047,46.2768684802492</MachiningOrigin>
+      <Nesting>
+        <BasePoint />
+        <NestMethod>None</NestMethod>
+      </Nesting>
+    </part>
+  </parts>
+  <ActiveLayer>0</ActiveLayer>
+  <ActivePart>Blume</ActivePart>
+</CADFile>
