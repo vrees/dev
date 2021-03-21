@@ -5,7 +5,7 @@
       <ModificationCount>0</ModificationCount>
       <objects>
         <spline id="32" deg="5" flags="4" ktol="1E-09" cptol="1E-10" ftol="1E-10">
-          <ModificationCount>6</ModificationCount>
+          <ModificationCount>10</ModificationCount>
           <mat m="Identity" />
           <knots>
             <k>0</k>
@@ -352,7 +352,7 @@
           <fit />
         </spline>
         <pline id="33" Closed="true">
-          <ModificationCount>7</ModificationCount>
+          <ModificationCount>11</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="-0.005867669699248762">-128.671593542509,-11.838964022991,0</p>
@@ -476,7 +476,7 @@
           </pts>
         </pline>
         <pline id="34" Closed="true">
-          <ModificationCount>7</ModificationCount>
+          <ModificationCount>11</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="-0.01737316469561799">-61.4321342947776,45.5627260007736,0</p>
@@ -602,7 +602,7 @@
           </pts>
         </pline>
         <pline id="35" Closed="true">
-          <ModificationCount>7</ModificationCount>
+          <ModificationCount>11</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="-0.0089410685250412569">20.1315625320281,35.0367744301445,0</p>
@@ -853,7 +853,7 @@
           </pts>
         </pline>
         <pline id="36" Closed="true">
-          <ModificationCount>7</ModificationCount>
+          <ModificationCount>11</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="-0.0064966527463279338">-126.277539228958,-13.4503467340348,0</p>
@@ -1482,7 +1482,7 @@
           </pts>
         </pline>
         <pline id="37" Closed="true">
-          <ModificationCount>7</ModificationCount>
+          <ModificationCount>11</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="0.02323091849146218">84.8270851699279,-8.62728683528485,0</p>
@@ -1704,7 +1704,7 @@
           </pts>
         </pline>
         <pline id="38" Closed="true">
-          <ModificationCount>7</ModificationCount>
+          <ModificationCount>11</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>27.2948361895059,3.20638750191839,0</p>
@@ -1970,7 +1970,7 @@
           </pts>
         </pline>
         <pline id="39" Closed="true">
-          <ModificationCount>7</ModificationCount>
+          <ModificationCount>11</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-54.3775662820223,14.5720928913446,0</p>
@@ -2226,7 +2226,7 @@
           </pts>
         </pline>
         <pline id="40" Closed="true">
-          <ModificationCount>7</ModificationCount>
+          <ModificationCount>11</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="-0.026009753861147178">-94.593930670254,45.3924894200386,0</p>
@@ -2897,7 +2897,7 @@
           </pts>
         </pline>
         <pline id="41" Closed="true">
-          <ModificationCount>7</ModificationCount>
+          <ModificationCount>11</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="-0.014685729775987054">-57.0393382106856,43.6678348816261,0</p>
@@ -3089,18 +3089,18 @@
           </pts>
         </pline>
         <text id="7" p1="79.9125786189519,114.87805916768,0" p2="106.912578618952,44.8780591676796,0" Height="30" Font="Comic Sans MS" align="center,right">
-          <ModificationCount>8</ModificationCount>
+          <ModificationCount>12</ModificationCount>
           <mat m="Identity" />Ferienwohnung</text>
-        <text id="4" p1="28.7006860209411,-65.7108301562988,0" p2="55.7006860209411,-135.710830156299,0" Height="40" Font="Comic Sans MS" align="center,right">
-          <ModificationCount>8</ModificationCount>
-          <mat m="Identity" />Buehl</text>
+        <text id="4" p1="15.506304459241,-65.1685412224726,0" p2="42.506304459241,-135.168541222473,0" Height="40" Font="Comic Sans MS" align="center,right">
+          <ModificationCount>15</ModificationCount>
+          <mat m="Identity" />Bühl</text>
       </objects>
     </layer>
-    <layer name="Koordinaten" color="127,255,0" visible="false">
-      <ModificationCount>2</ModificationCount>
+    <layer name="Koordinaten" color="127,255,0">
+      <ModificationCount>3</ModificationCount>
       <objects>
         <rect id="5" Closed="true" p="-150,-89,0" w="256" h="220">
-          <ModificationCount>7</ModificationCount>
+          <ModificationCount>11</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-150,-89,0</p>
@@ -3110,7 +3110,7 @@
           </pts>
         </rect>
         <pline id="6">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>6</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-150,131,0</p>
@@ -3118,7 +3118,7 @@
           </pts>
         </pline>
         <pline id="8">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>6</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-150,-89,0</p>
@@ -3129,6 +3129,7 @@
     </layer>
   </layers>
   <MachiningOptions>
+    <OutFile>{$cbfile.name}.nc</OutFile>
     <Stock>
       <PMin>0,0</PMin>
       <PMax>0,0</PMax>
@@ -3325,8 +3326,6 @@
           <MillingDirection state="Default">Conventional</MillingDirection>
           <CollisionDetection state="Default">True</CollisionDetection>
           <CornerOvercut state="Default">False</CornerOvercut>
-          <LeadInMove state="Default" />
-          <LeadOutMove state="Default" />
           <HoldingTabs state="Default">
             <TabMethod>None</TabMethod>
             <Width>3</Width>
@@ -3338,7 +3337,6 @@
             <UseLeadIns>False</UseLeadIns>
             <TabStyle>Triangle</TabStyle>
           </HoldingTabs>
-          <SideProfile state="Default" />
           <StockSurface state="Default">0</StockSurface>
           <RoughingClearance state="Default">0</RoughingClearance>
           <ClearancePlane state="Default">3</ClearancePlane>
@@ -3360,9 +3358,6 @@
           <PlungeFeedrate state="Default">300</PlungeFeedrate>
           <CutFeedrate state="Default">800</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
-          <StartPoint state="Default" />
-          <CustomMOPHeader state="Default" />
-          <CustomMOPFooter state="Default" />
           <Name>Hut-Profil-2mm</Name>
         </profile>
         <pocket Enabled="false">
@@ -3374,8 +3369,6 @@
           <StepoverFeedrate state="Default">Eintauch-Vorschub</StepoverFeedrate>
           <MillingDirection state="Default">Conventional</MillingDirection>
           <CollisionDetection state="Default">True</CollisionDetection>
-          <LeadInMove state="Default" />
-          <LeadOutMove state="Default" />
           <RegionFillStyle state="Default">InsideOutsideOffsets</RegionFillStyle>
           <FinishStepover state="Default">0</FinishStepover>
           <FinishStepoverAtTargetDepth state="Default">False</FinishStepoverAtTargetDepth>
@@ -3408,9 +3401,6 @@
           <PlungeFeedrate state="Default">300</PlungeFeedrate>
           <CutFeedrate state="Default">800</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
-          <StartPoint state="Default" />
-          <CustomMOPHeader state="Default" />
-          <CustomMOPFooter state="Default" />
           <Name>Umriss-3mm</Name>
         </pocket>
         <pocket Enabled="true">

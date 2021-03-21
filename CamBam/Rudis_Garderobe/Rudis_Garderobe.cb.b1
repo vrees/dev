@@ -5,7 +5,7 @@
       <ModificationCount>0</ModificationCount>
       <objects>
         <rect id="1" Closed="true" p="-157,-98,0" w="314" h="196">
-          <ModificationCount>9</ModificationCount>
+          <ModificationCount>11</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-157,-98,0</p>
@@ -15,7 +15,7 @@
           </pts>
         </rect>
         <rect id="3" Closed="true" p="-60,28,0" w="120" h="50">
-          <ModificationCount>11</ModificationCount>
+          <ModificationCount>13</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-60,28,0</p>
@@ -30,15 +30,15 @@
       <ModificationCount>2</ModificationCount>
       <objects>
         <text id="2" p1="60.7576265330539,60.9060303588804,0" p2="87.7576265330539,-9.0939696411198,0" Height="60" Font="Comic Sans MS" align="center,right">
-          <ModificationCount>6</ModificationCount>
+          <ModificationCount>8</ModificationCount>
           <mat m="Identity" />Rudi</text>
       </objects>
     </layer>
     <layer name="Schnittpunkt" color="127,255,0" visible="false">
-      <ModificationCount>1</ModificationCount>
+      <ModificationCount>3</ModificationCount>
       <objects>
         <pline id="4">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>60,78,0</p>
@@ -46,7 +46,7 @@
           </pts>
         </pline>
         <pline id="5">
-          <ModificationCount>2</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-60,78,0</p>
@@ -64,7 +64,7 @@
       <Color>255,165,0</Color>
     </Stock>
     <ToolProfile>Unspecified</ToolProfile>
-    <MachiningOrigin>13.3251490468698,12.8157773824623</MachiningOrigin>
+    <MachiningOrigin>-0.118675296218266,52.9918433113424</MachiningOrigin>
   </MachiningOptions>
   <parts>
     <part Name="Rudi">
@@ -115,7 +115,7 @@
       </Stock>
       <ToolProfile>Unspecified</ToolProfile>
       <Nesting>
-        <BasePoint />
+        <BasePoint>0,0</BasePoint>
         <NestMethod>None</NestMethod>
       </Nesting>
     </part>
