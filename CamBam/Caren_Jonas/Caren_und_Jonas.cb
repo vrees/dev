@@ -234,8 +234,8 @@
         </pline>
       </objects>
     </layer>
-    <layer name="Rechts" color="127,255,0" visible="false">
-      <ModificationCount>15</ModificationCount>
+    <layer name="Rechts" color="127,255,0">
+      <ModificationCount>16</ModificationCount>
       <objects>
         <pline id="109" Closed="true">
           <ModificationCount>32</ModificationCount>
@@ -438,7 +438,7 @@
         <Color>255,165,0</Color>
       </Stock>
       <ToolProfile>Unspecified</ToolProfile>
-      <MachiningOrigin>236,0</MachiningOrigin>
+      <MachiningOrigin>186,0</MachiningOrigin>
       <Nesting>
         <BasePoint>0,0</BasePoint>
         <NestMethod>None</NestMethod>
