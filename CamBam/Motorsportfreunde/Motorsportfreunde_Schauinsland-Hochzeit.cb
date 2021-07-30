@@ -6,7 +6,7 @@
       <objects />
     </layer>
     <layer name="Logo" color="255,0,255">
-      <ModificationCount>3</ModificationCount>
+      <ModificationCount>5</ModificationCount>
       <objects>
         <pline id="110" Closed="true">
           <ModificationCount>9</ModificationCount>
@@ -2598,7 +2598,7 @@
       </objects>
     </layer>
     <layer name="Namen" color="127,255,0">
-      <ModificationCount>2</ModificationCount>
+      <ModificationCount>4</ModificationCount>
       <objects>
         <text id="73" p1="7.08044342123099,-112.962167132005,0" p2="-6.27854063284698,-96.7377134682372,0" Height="16" Font="Comic Sans MS" align="center,center" style="bold">
           <ModificationCount>32</ModificationCount>
@@ -2657,6 +2657,7 @@
     </layer>
   </layers>
   <MachiningOptions>
+    <OutFile>{$cbfile.name}.nc</OutFile>
     <Stock>
       <PMin>0,0</PMin>
       <PMax>0,0</PMax>
@@ -2676,6 +2677,8 @@
           <StepoverFeedrate state="Default">Eintauch-Vorschub</StepoverFeedrate>
           <MillingDirection state="Default">Conventional</MillingDirection>
           <CollisionDetection state="Default">True</CollisionDetection>
+          <LeadInMove state="Default" />
+          <LeadOutMove state="Default" />
           <RegionFillStyle state="Default">InsideOutsideOffsets</RegionFillStyle>
           <FinishStepover state="Default">0</FinishStepover>
           <FinishStepoverAtTargetDepth state="Default">False</FinishStepoverAtTargetDepth>
@@ -2768,6 +2771,9 @@
           <PlungeFeedrate state="Default">300</PlungeFeedrate>
           <CutFeedrate state="Default">800</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
+          <StartPoint state="Default" />
+          <CustomMOPHeader state="Default" />
+          <CustomMOPFooter state="Default" />
           <Name>Tasche3mm</Name>
         </pocket>
         <profile Enabled="true">
@@ -2782,6 +2788,8 @@
           <MillingDirection state="Default">Conventional</MillingDirection>
           <CollisionDetection state="Default">True</CollisionDetection>
           <CornerOvercut state="Default">False</CornerOvercut>
+          <LeadInMove state="Default" />
+          <LeadOutMove state="Default" />
           <HoldingTabs state="Default">
             <TabMethod>None</TabMethod>
             <Width>3</Width>
@@ -2793,6 +2801,7 @@
             <UseLeadIns>False</UseLeadIns>
             <TabStyle>Triangle</TabStyle>
           </HoldingTabs>
+          <SideProfile state="Default" />
           <StockSurface state="Default">0</StockSurface>
           <RoughingClearance state="Default">0</RoughingClearance>
           <ClearancePlane state="Default">3</ClearancePlane>
@@ -2882,6 +2891,9 @@
           <PlungeFeedrate state="Default">300</PlungeFeedrate>
           <CutFeedrate state="Default">800</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
+          <StartPoint state="Default" />
+          <CustomMOPHeader state="Default" />
+          <CustomMOPFooter state="Default" />
           <Name>Profil15mm</Name>
         </profile>
       </machineops>
