@@ -5,7 +5,7 @@
       <ModificationCount>7</ModificationCount>
       <objects>
         <pline id="73" Closed="true">
-          <ModificationCount>63</ModificationCount>
+          <ModificationCount>65</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="0.12701665379258309">-7.0134587019489,-19.6933497767608,0</p>
@@ -14,7 +14,7 @@
           </pts>
         </pline>
         <pline id="69" Closed="true">
-          <ModificationCount>63</ModificationCount>
+          <ModificationCount>65</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="-0.31065011911070711">-13.6206015590918,-27.9994344452335,0</p>
@@ -24,7 +24,7 @@
           </pts>
         </pline>
         <pline id="66" Closed="true">
-          <ModificationCount>63</ModificationCount>
+          <ModificationCount>65</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="-0.15174830431232647">-0.406315844805999,19.5966016613712,0</p>
@@ -36,7 +36,7 @@
           </pts>
         </pline>
         <pline id="64" Closed="true">
-          <ModificationCount>63</ModificationCount>
+          <ModificationCount>65</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="0.3240049065117292">-7.0134587019489,27.1035352930659,0</p>
@@ -49,19 +49,19 @@
           </pts>
         </pline>
         <text id="81" p1="-7,-66,0" p2="-30.0134587019489,-20.0144346920986,0" Height="32" Font="Comic Sans MS" align="center,center">
-          <ModificationCount>84</ModificationCount>
+          <ModificationCount>86</ModificationCount>
           <mat m="Identity" />2021</text>
         <text id="83" p1="-7,66,0" p2="-30.0134587019489,-20.0144346920986,0" Height="32" Font="Comic Sans MS" align="center,center">
-          <ModificationCount>86</ModificationCount>
+          <ModificationCount>88</ModificationCount>
           <mat m="Identity" />21.08.</text>
         <text id="19" p1="-186,20,0" Height="130" Font="Comic Sans MS" align="center,right" style="bold">
-          <ModificationCount>36</ModificationCount>
+          <ModificationCount>38</ModificationCount>
           <mat m="Identity" />Caren</text>
         <text id="22" p1="192,20,0" p2="-50,0,0" Height="130" Font="Comic Sans MS" align="center,left" style="bold">
-          <ModificationCount>32</ModificationCount>
+          <ModificationCount>34</ModificationCount>
           <mat m="Identity" />Jonas</text>
         <rect id="1" Closed="true" p="-590,-115,0" w="1180" h="230" radius="50">
-          <ModificationCount>73</ModificationCount>
+          <ModificationCount>75</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-540,-115,0</p>
@@ -75,7 +75,7 @@
           </pts>
         </rect>
         <rect id="7" Closed="true" p="-53.0094356096521,43.580940824128,0" w="93.028646165155664" h="34.647032442741271">
-          <ModificationCount>54</ModificationCount>
+          <ModificationCount>56</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-53.0094356096521,43.580940824128,0</p>
@@ -85,7 +85,7 @@
           </pts>
         </rect>
         <rect id="8" Closed="true" p="-53.0094356096521,-87.6412844117661,0" w="93.028646165155664" h="34.647032442741263">
-          <ModificationCount>54</ModificationCount>
+          <ModificationCount>56</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-53.0094356096521,-87.6412844117661,0</p>
@@ -100,7 +100,7 @@
       <ModificationCount>27</ModificationCount>
       <objects>
         <pline id="55">
-          <ModificationCount>50</ModificationCount>
+          <ModificationCount>52</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>0,140,0</p>
@@ -108,7 +108,7 @@
           </pts>
         </pline>
         <pline id="3">
-          <ModificationCount>35</ModificationCount>
+          <ModificationCount>37</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-600,0,0</p>
@@ -116,7 +116,7 @@
           </pts>
         </pline>
         <pline id="6">
-          <ModificationCount>41</ModificationCount>
+          <ModificationCount>43</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-186,140,0</p>
@@ -124,7 +124,7 @@
           </pts>
         </pline>
         <pline id="9">
-          <ModificationCount>46</ModificationCount>
+          <ModificationCount>48</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>192,140,0</p>
@@ -132,7 +132,7 @@
           </pts>
         </pline>
         <pline id="10">
-          <ModificationCount>35</ModificationCount>
+          <ModificationCount>37</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-182,140,0</p>
@@ -140,7 +140,7 @@
           </pts>
         </pline>
         <pline id="11">
-          <ModificationCount>42</ModificationCount>
+          <ModificationCount>44</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>186,140,0</p>
@@ -149,11 +149,11 @@
         </pline>
       </objects>
     </layer>
-    <layer name="Links" color="127,255,0" visible="false">
-      <ModificationCount>15</ModificationCount>
+    <layer name="Links" color="127,255,0">
+      <ModificationCount>16</ModificationCount>
       <objects>
         <pline id="91" Closed="true">
-          <ModificationCount>31</ModificationCount>
+          <ModificationCount>33</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-182,115,0</p>
@@ -165,15 +165,15 @@
           </pts>
         </pline>
         <text id="37" p1="-186,20,0" Height="130" Font="Comic Sans MS" align="center,right" style="bold">
-          <ModificationCount>14</ModificationCount>
+          <ModificationCount>16</ModificationCount>
           <mat m="Identity" />Caren</text>
       </objects>
     </layer>
-    <layer name="Mitte" color="127,255,0" visible="false">
-      <ModificationCount>14</ModificationCount>
+    <layer name="Mitte" color="127,255,0">
+      <ModificationCount>15</ModificationCount>
       <objects>
         <pline id="95" Closed="true">
-          <ModificationCount>30</ModificationCount>
+          <ModificationCount>32</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>190,-115,0</p>
@@ -183,13 +183,13 @@
           </pts>
         </pline>
         <text id="39" p1="-7,-66,0" p2="-30.0134587019489,-20.0144346920986,0" Height="32" Font="Comic Sans MS" align="center,center">
-          <ModificationCount>14</ModificationCount>
+          <ModificationCount>16</ModificationCount>
           <mat m="Identity" />2021</text>
         <text id="40" p1="-7,66,0" p2="-30.0134587019489,-20.0144346920986,0" Height="32" Font="Comic Sans MS" align="center,center">
-          <ModificationCount>14</ModificationCount>
+          <ModificationCount>16</ModificationCount>
           <mat m="Identity" />21.08.</text>
         <pline id="41" Closed="true">
-          <ModificationCount>14</ModificationCount>
+          <ModificationCount>16</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="0.12701665379258309">-7.0134587019489,-19.6933497767608,0</p>
@@ -198,7 +198,7 @@
           </pts>
         </pline>
         <pline id="42" Closed="true">
-          <ModificationCount>14</ModificationCount>
+          <ModificationCount>16</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="-0.31065011911070711">-13.6206015590918,-27.9994344452335,0</p>
@@ -208,7 +208,7 @@
           </pts>
         </pline>
         <pline id="43" Closed="true">
-          <ModificationCount>14</ModificationCount>
+          <ModificationCount>16</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="-0.15174830431232647">-0.406315844805999,19.5966016613712,0</p>
@@ -220,7 +220,7 @@
           </pts>
         </pline>
         <pline id="44" Closed="true">
-          <ModificationCount>14</ModificationCount>
+          <ModificationCount>16</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="0.3240049065117292">-7.0134587019489,27.1035352930659,0</p>
@@ -238,7 +238,7 @@
       <ModificationCount>16</ModificationCount>
       <objects>
         <pline id="109" Closed="true">
-          <ModificationCount>32</ModificationCount>
+          <ModificationCount>34</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>186,115,0</p>
@@ -250,7 +250,7 @@
           </pts>
         </pline>
         <text id="38" p1="192,20,0" p2="-50,0,0" Height="130" Font="Comic Sans MS" align="center,left" style="bold">
-          <ModificationCount>14</ModificationCount>
+          <ModificationCount>16</ModificationCount>
           <mat m="Identity" />Jonas</text>
       </objects>
     </layer>
@@ -258,7 +258,7 @@
       <ModificationCount>7</ModificationCount>
       <objects>
         <rect id="26" Closed="true" p="-53.0094356096521,43.580940824128,0" w="93.028646165155664" h="34.647032442741271">
-          <ModificationCount>15</ModificationCount>
+          <ModificationCount>17</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-53.0094356096521,43.580940824128,0</p>
@@ -268,7 +268,7 @@
           </pts>
         </rect>
         <rect id="28" Closed="true" p="-53.0094356096521,-87.6412844117661,0" w="93.028646165155664" h="34.647032442741263">
-          <ModificationCount>15</ModificationCount>
+          <ModificationCount>17</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-53.0094356096521,-87.6412844117661,0</p>
@@ -301,8 +301,6 @@
           <StepoverFeedrate state="Default">Eintauch-Vorschub</StepoverFeedrate>
           <MillingDirection state="Default">Conventional</MillingDirection>
           <CollisionDetection state="Default">True</CollisionDetection>
-          <LeadInMove state="Default" />
-          <LeadOutMove state="Default" />
           <RegionFillStyle state="Default">InsideOutsideOffsets</RegionFillStyle>
           <FinishStepover state="Default">0</FinishStepover>
           <FinishStepoverAtTargetDepth state="Default">False</FinishStepoverAtTargetDepth>
@@ -326,9 +324,6 @@
           <PlungeFeedrate state="Default">300</PlungeFeedrate>
           <CutFeedrate state="Default">800</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
-          <StartPoint state="Default" />
-          <CustomMOPHeader state="Default" />
-          <CustomMOPFooter state="Default" />
           <Name>Tasche6mm</Name>
         </pocket>
         <profile Enabled="true">
@@ -343,8 +338,6 @@
           <MillingDirection state="Default">Conventional</MillingDirection>
           <CollisionDetection state="Default">True</CollisionDetection>
           <CornerOvercut state="Default">False</CornerOvercut>
-          <LeadInMove state="Default" />
-          <LeadOutMove state="Default" />
           <HoldingTabs state="Default">
             <TabMethod>None</TabMethod>
             <Width>3</Width>
@@ -356,7 +349,6 @@
             <UseLeadIns>False</UseLeadIns>
             <TabStyle>Triangle</TabStyle>
           </HoldingTabs>
-          <SideProfile state="Default" />
           <StockSurface state="Default">0</StockSurface>
           <RoughingClearance state="Default">0</RoughingClearance>
           <ClearancePlane state="Default">3</ClearancePlane>
@@ -376,9 +368,6 @@
           <PlungeFeedrate state="Default">300</PlungeFeedrate>
           <CutFeedrate state="Default">800</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
-          <StartPoint state="Default" />
-          <CustomMOPHeader state="Default" />
-          <CustomMOPFooter state="Default" />
           <Name>Profil2Rand</Name>
         </profile>
         <profile Enabled="true">
@@ -393,8 +382,6 @@
           <MillingDirection state="Default">Conventional</MillingDirection>
           <CollisionDetection state="Default">True</CollisionDetection>
           <CornerOvercut state="Default">False</CornerOvercut>
-          <LeadInMove state="Default" />
-          <LeadOutMove state="Default" />
           <HoldingTabs state="Default">
             <TabMethod>None</TabMethod>
             <Width>3</Width>
@@ -406,7 +393,6 @@
             <UseLeadIns>False</UseLeadIns>
             <TabStyle>Triangle</TabStyle>
           </HoldingTabs>
-          <SideProfile state="Default" />
           <StockSurface state="Default">0</StockSurface>
           <RoughingClearance state="Default">0</RoughingClearance>
           <ClearancePlane state="Default">3</ClearancePlane>
@@ -426,9 +412,6 @@
           <PlungeFeedrate state="Default">300</PlungeFeedrate>
           <CutFeedrate state="Default">800</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
-          <StartPoint state="Default" />
-          <CustomMOPHeader state="Default" />
-          <CustomMOPFooter state="Default" />
           <Name>Profil2-text-aussen</Name>
         </profile>
       </machineops>
@@ -455,8 +438,6 @@
           <StepoverFeedrate state="Default">Eintauch-Vorschub</StepoverFeedrate>
           <MillingDirection state="Default">Conventional</MillingDirection>
           <CollisionDetection state="Default">True</CollisionDetection>
-          <LeadInMove state="Default" />
-          <LeadOutMove state="Default" />
           <RegionFillStyle state="Default">InsideOutsideOffsets</RegionFillStyle>
           <FinishStepover state="Default">0</FinishStepover>
           <FinishStepoverAtTargetDepth state="Default">False</FinishStepoverAtTargetDepth>
@@ -480,9 +461,6 @@
           <PlungeFeedrate state="Default">300</PlungeFeedrate>
           <CutFeedrate state="Default">800</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
-          <StartPoint state="Default" />
-          <CustomMOPHeader state="Default" />
-          <CustomMOPFooter state="Default" />
           <Name>Tasche6mm</Name>
         </pocket>
         <profile Enabled="true">
@@ -497,8 +475,6 @@
           <MillingDirection state="Default">Conventional</MillingDirection>
           <CollisionDetection state="Default">True</CollisionDetection>
           <CornerOvercut state="Default">False</CornerOvercut>
-          <LeadInMove state="Default" />
-          <LeadOutMove state="Default" />
           <HoldingTabs state="Default">
             <TabMethod>None</TabMethod>
             <Width>3</Width>
@@ -510,7 +486,6 @@
             <UseLeadIns>False</UseLeadIns>
             <TabStyle>Triangle</TabStyle>
           </HoldingTabs>
-          <SideProfile state="Default" />
           <StockSurface state="Default">0</StockSurface>
           <RoughingClearance state="Default">0</RoughingClearance>
           <ClearancePlane state="Default">3</ClearancePlane>
@@ -530,9 +505,6 @@
           <PlungeFeedrate state="Default">300</PlungeFeedrate>
           <CutFeedrate state="Default">800</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
-          <StartPoint state="Default" />
-          <CustomMOPHeader state="Default" />
-          <CustomMOPFooter state="Default" />
           <Name>Profil2Rand</Name>
         </profile>
         <profile Enabled="true">
@@ -547,8 +519,6 @@
           <MillingDirection state="Default">Conventional</MillingDirection>
           <CollisionDetection state="Default">True</CollisionDetection>
           <CornerOvercut state="Default">False</CornerOvercut>
-          <LeadInMove state="Default" />
-          <LeadOutMove state="Default" />
           <HoldingTabs state="Default">
             <TabMethod>None</TabMethod>
             <Width>3</Width>
@@ -560,7 +530,6 @@
             <UseLeadIns>False</UseLeadIns>
             <TabStyle>Triangle</TabStyle>
           </HoldingTabs>
-          <SideProfile state="Default" />
           <StockSurface state="Default">0</StockSurface>
           <RoughingClearance state="Default">0</RoughingClearance>
           <ClearancePlane state="Default">3</ClearancePlane>
@@ -580,9 +549,6 @@
           <PlungeFeedrate state="Default">300</PlungeFeedrate>
           <CutFeedrate state="Default">800</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
-          <StartPoint state="Default" />
-          <CustomMOPHeader state="Default" />
-          <CustomMOPFooter state="Default" />
           <Name>Profil2-text-aussen</Name>
         </profile>
       </machineops>
@@ -609,8 +575,6 @@
           <StepoverFeedrate state="Default">Eintauch-Vorschub</StepoverFeedrate>
           <MillingDirection state="Default">Conventional</MillingDirection>
           <CollisionDetection state="Default">True</CollisionDetection>
-          <LeadInMove state="Default" />
-          <LeadOutMove state="Default" />
           <RegionFillStyle state="Default">InsideOutsideOffsets</RegionFillStyle>
           <FinishStepover state="Default">0</FinishStepover>
           <FinishStepoverAtTargetDepth state="Default">False</FinishStepoverAtTargetDepth>
@@ -634,9 +598,6 @@
           <PlungeFeedrate state="Default">300</PlungeFeedrate>
           <CutFeedrate state="Default">800</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
-          <StartPoint state="Default" />
-          <CustomMOPHeader state="Default" />
-          <CustomMOPFooter state="Default" />
           <Name>Vertiefung-Datum</Name>
         </pocket>
         <pocket Enabled="true">
@@ -648,8 +609,6 @@
           <StepoverFeedrate state="Default">Eintauch-Vorschub</StepoverFeedrate>
           <MillingDirection state="Default">Conventional</MillingDirection>
           <CollisionDetection state="Default">True</CollisionDetection>
-          <LeadInMove state="Default" />
-          <LeadOutMove state="Default" />
           <RegionFillStyle state="Default">InsideOutsideOffsets</RegionFillStyle>
           <FinishStepover state="Default">0</FinishStepover>
           <FinishStepoverAtTargetDepth state="Default">False</FinishStepoverAtTargetDepth>
@@ -678,9 +637,6 @@
           <PlungeFeedrate state="Default">300</PlungeFeedrate>
           <CutFeedrate state="Default">800</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
-          <StartPoint state="Default" />
-          <CustomMOPHeader state="Default" />
-          <CustomMOPFooter state="Default" />
           <Name>Tasche6mm</Name>
         </pocket>
         <profile Enabled="true">
@@ -695,8 +651,6 @@
           <MillingDirection state="Default">Conventional</MillingDirection>
           <CollisionDetection state="Default">True</CollisionDetection>
           <CornerOvercut state="Default">False</CornerOvercut>
-          <LeadInMove state="Default" />
-          <LeadOutMove state="Default" />
           <HoldingTabs state="Default">
             <TabMethod>None</TabMethod>
             <Width>3</Width>
@@ -708,7 +662,6 @@
             <UseLeadIns>False</UseLeadIns>
             <TabStyle>Triangle</TabStyle>
           </HoldingTabs>
-          <SideProfile state="Default" />
           <StockSurface state="Default">0</StockSurface>
           <RoughingClearance state="Default">0</RoughingClearance>
           <ClearancePlane state="Default">3</ClearancePlane>
@@ -728,9 +681,6 @@
           <PlungeFeedrate state="Default">300</PlungeFeedrate>
           <CutFeedrate state="Default">800</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
-          <StartPoint state="Default" />
-          <CustomMOPHeader state="Default" />
-          <CustomMOPFooter state="Default" />
           <Name>Profil2Rand</Name>
         </profile>
         <profile Enabled="true">
@@ -745,8 +695,6 @@
           <MillingDirection state="Default">Conventional</MillingDirection>
           <CollisionDetection state="Default">True</CollisionDetection>
           <CornerOvercut state="Default">False</CornerOvercut>
-          <LeadInMove state="Default" />
-          <LeadOutMove state="Default" />
           <HoldingTabs state="Default">
             <TabMethod>None</TabMethod>
             <Width>3</Width>
@@ -758,7 +706,6 @@
             <UseLeadIns>False</UseLeadIns>
             <TabStyle>Triangle</TabStyle>
           </HoldingTabs>
-          <SideProfile state="Default" />
           <StockSurface state="Default">0</StockSurface>
           <RoughingClearance state="Default">0</RoughingClearance>
           <ClearancePlane state="Default">3</ClearancePlane>
@@ -780,9 +727,6 @@
           <PlungeFeedrate state="Default">300</PlungeFeedrate>
           <CutFeedrate state="Default">800</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
-          <StartPoint state="Default" />
-          <CustomMOPHeader state="Default" />
-          <CustomMOPFooter state="Default" />
           <Name>Profil2-text-innen</Name>
         </profile>
         <profile Enabled="true">
@@ -797,8 +741,6 @@
           <MillingDirection state="Default">Conventional</MillingDirection>
           <CollisionDetection state="Default">True</CollisionDetection>
           <CornerOvercut state="Default">False</CornerOvercut>
-          <LeadInMove state="Default" />
-          <LeadOutMove state="Default" />
           <HoldingTabs state="Default">
             <TabMethod>None</TabMethod>
             <Width>3</Width>
@@ -810,7 +752,6 @@
             <UseLeadIns>False</UseLeadIns>
             <TabStyle>Triangle</TabStyle>
           </HoldingTabs>
-          <SideProfile state="Default" />
           <StockSurface state="Default">0</StockSurface>
           <RoughingClearance state="Default">0</RoughingClearance>
           <ClearancePlane state="Default">3</ClearancePlane>
@@ -832,9 +773,6 @@
           <PlungeFeedrate state="Default">300</PlungeFeedrate>
           <CutFeedrate state="Default">800</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
-          <StartPoint state="Default" />
-          <CustomMOPHeader state="Default" />
-          <CustomMOPFooter state="Default" />
           <Name>Profil2-text-aussen</Name>
         </profile>
         <profile Enabled="true">
@@ -849,8 +787,6 @@
           <MillingDirection state="Default">Conventional</MillingDirection>
           <CollisionDetection state="Default">True</CollisionDetection>
           <CornerOvercut state="Default">False</CornerOvercut>
-          <LeadInMove state="Default" />
-          <LeadOutMove state="Default" />
           <HoldingTabs state="Default">
             <TabMethod>None</TabMethod>
             <Width>3</Width>
@@ -862,7 +798,6 @@
             <UseLeadIns>False</UseLeadIns>
             <TabStyle>Triangle</TabStyle>
           </HoldingTabs>
-          <SideProfile state="Default" />
           <StockSurface state="Default">0</StockSurface>
           <RoughingClearance state="Value">0.1</RoughingClearance>
           <ClearancePlane state="Default">3</ClearancePlane>
@@ -887,9 +822,6 @@
           <PlungeFeedrate state="Default">300</PlungeFeedrate>
           <CutFeedrate state="Default">800</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
-          <StartPoint state="Default" />
-          <CustomMOPHeader state="Default" />
-          <CustomMOPFooter state="Default" />
           <Name>Profil4-text-aussen</Name>
         </profile>
       </machineops>
