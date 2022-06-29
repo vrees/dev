@@ -1,0 +1,25 @@
+Einstellungen der Bearbeitungen:
+
+
+Bollenhut:
+  Bearbeitung:        Tasche
+  Werkzeudurchmesser:  3mm
+  Zieltiefe:          -4mm
+  Tiefe Zustellung:    2mm
+
+
+Rahmen:
+  Bearbeitung:        Tasche
+  Werkzeudurchmesser:  8mm (oder 10mm)
+  Zieltiefe:          -5mm
+  Tiefe Zustellung:  2.5mm  
+
+
+Text:
+  Bearbeitung:        Profil Außerhalb
+  Werkzeudurchmesser:  8mm
+  Zieltiefe:          -5mm
+  Tiefe Zustellung:  2.5mm
+  
+  
+Der Nullpunkt ist auf dem Werkstück unten in der Mitte  

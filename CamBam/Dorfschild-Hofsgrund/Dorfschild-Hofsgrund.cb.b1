@@ -8,7 +8,7 @@
     <layer name="Werkstueck" color="127,255,0">
       <objects>
         <line id="5">
-          <ModificationCount>14</ModificationCount>
+          <ModificationCount>18</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-475,540</p>
@@ -16,7 +16,7 @@
           </pts>
         </line>
         <line id="6">
-          <ModificationCount>14</ModificationCount>
+          <ModificationCount>18</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>0,750</p>
@@ -24,7 +24,7 @@
           </pts>
         </line>
         <line id="10">
-          <ModificationCount>14</ModificationCount>
+          <ModificationCount>18</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-475,0</p>
@@ -32,7 +32,7 @@
           </pts>
         </line>
         <line id="24">
-          <ModificationCount>14</ModificationCount>
+          <ModificationCount>18</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>475,0</p>
@@ -40,7 +40,7 @@
           </pts>
         </line>
         <line id="23">
-          <ModificationCount>14</ModificationCount>
+          <ModificationCount>18</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-475,540</p>
@@ -53,7 +53,7 @@
     <layer name="Rahmen" color="255,255,255">
       <objects>
         <pline id="46" Closed="true">
-          <ModificationCount>3</ModificationCount>
+          <ModificationCount>7</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="0.21119312372925372">9.70442785116341,723.842229540195,0</p>
@@ -69,7 +69,7 @@
           </pts>
         </pline>
         <pline id="41" Closed="true">
-          <ModificationCount>3</ModificationCount>
+          <ModificationCount>7</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="0.29692330875006873">443,511.344369551035,0</p>
@@ -90,14 +90,14 @@
     <layer name="Begrenzungen-Text" color="255,255,255" visible="false">
       <objects>
         <points id="27">
-          <ModificationCount>14</ModificationCount>
+          <ModificationCount>18</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>0,0</p>
           </pts>
         </points>
         <line id="28">
-          <ModificationCount>14</ModificationCount>
+          <ModificationCount>18</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>400,90</p>
@@ -105,7 +105,7 @@
           </pts>
         </line>
         <line id="29">
-          <ModificationCount>14</ModificationCount>
+          <ModificationCount>18</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-400,170</p>
@@ -113,7 +113,7 @@
           </pts>
         </line>
         <line id="30">
-          <ModificationCount>14</ModificationCount>
+          <ModificationCount>18</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>400,200</p>
@@ -121,7 +121,7 @@
           </pts>
         </line>
         <line id="31">
-          <ModificationCount>14</ModificationCount>
+          <ModificationCount>18</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-400,200</p>
@@ -129,7 +129,7 @@
           </pts>
         </line>
         <line id="32">
-          <ModificationCount>14</ModificationCount>
+          <ModificationCount>18</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>400,280</p>
@@ -137,7 +137,7 @@
           </pts>
         </line>
         <line id="33">
-          <ModificationCount>14</ModificationCount>
+          <ModificationCount>18</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-400,280</p>
@@ -145,7 +145,7 @@
           </pts>
         </line>
         <line id="34">
-          <ModificationCount>14</ModificationCount>
+          <ModificationCount>18</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-400,310</p>
@@ -153,7 +153,7 @@
           </pts>
         </line>
         <line id="35">
-          <ModificationCount>14</ModificationCount>
+          <ModificationCount>18</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>400,310</p>
@@ -161,7 +161,7 @@
           </pts>
         </line>
         <line id="36">
-          <ModificationCount>14</ModificationCount>
+          <ModificationCount>18</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-400,390</p>
@@ -169,7 +169,7 @@
           </pts>
         </line>
         <line id="37">
-          <ModificationCount>14</ModificationCount>
+          <ModificationCount>18</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>400,170</p>
@@ -177,7 +177,7 @@
           </pts>
         </line>
         <line id="38">
-          <ModificationCount>14</ModificationCount>
+          <ModificationCount>18</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-400,90</p>
@@ -185,7 +185,7 @@
           </pts>
         </line>
         <line id="39">
-          <ModificationCount>14</ModificationCount>
+          <ModificationCount>18</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>400,390</p>
@@ -198,7 +198,7 @@
     <layer name="Bollenhut" color="255,255,255">
       <objects>
         <pline id="3702" Closed="true">
-          <ModificationCount>13</ModificationCount>
+          <ModificationCount>17</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="-0.075267982238505837">-53.242920529135,579.640162239554,0</p>
@@ -219,7 +219,7 @@
           </pts>
         </pline>
         <pline id="3314" Closed="true">
-          <ModificationCount>13</ModificationCount>
+          <ModificationCount>17</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="0.055509731402969796">51.8940540910348,508.214218936314,0</p>
@@ -251,7 +251,7 @@
           </pts>
         </pline>
         <pline id="3897" Closed="true">
-          <ModificationCount>13</ModificationCount>
+          <ModificationCount>17</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="0.0082070767045652384">49.6492854107156,503.234027926824,0</p>
@@ -301,7 +301,7 @@
           </pts>
         </pline>
         <pline id="4282" Closed="true">
-          <ModificationCount>13</ModificationCount>
+          <ModificationCount>17</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="-0.0044534846606953393">42.1836896626851,529.954067106551,0</p>
@@ -317,7 +317,7 @@
           </pts>
         </pline>
         <pline id="3447" Closed="true">
-          <ModificationCount>13</ModificationCount>
+          <ModificationCount>17</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="0.10666484774961914">93.0279920109796,621.501044145313,0</p>
@@ -339,7 +339,7 @@
           </pts>
         </pline>
         <pline id="4026" Closed="true">
-          <ModificationCount>13</ModificationCount>
+          <ModificationCount>17</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="-0.066143066111911">-135.194992594582,518.981351138753,0</p>
@@ -356,7 +356,7 @@
           </pts>
         </pline>
         <pline id="5870" Closed="true">
-          <ModificationCount>13</ModificationCount>
+          <ModificationCount>17</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="0.13108578314133051">169.05419475596,537.104935887943,0</p>
@@ -375,7 +375,7 @@
           </pts>
         </pline>
         <pline id="5101" Closed="true">
-          <ModificationCount>13</ModificationCount>
+          <ModificationCount>17</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="0.1583694572600225">-93.1706796598723,619.71435626425,0</p>
@@ -391,7 +391,7 @@
           </pts>
         </pline>
         <pline id="3185" Closed="true">
-          <ModificationCount>13</ModificationCount>
+          <ModificationCount>17</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="0.1668864886976171">-173.571310276034,540.157811769354,0</p>
@@ -406,7 +406,7 @@
           </pts>
         </pline>
         <pline id="3183" Closed="true">
-          <ModificationCount>13</ModificationCount>
+          <ModificationCount>17</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="0.0075733861807037511">18.8304088592252,508.21709031537,0</p>
@@ -431,10 +431,10 @@
       </objects>
       <ModificationCount>6</ModificationCount>
     </layer>
-    <layer name="Willkommen" color="127,255,0" visible="false">
+    <layer name="Willkommen" color="127,255,0">
       <objects>
         <pline id="3170" Closed="true">
-          <ModificationCount>7</ModificationCount>
+          <ModificationCount>11</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="-0.16522739272745682">-271.90478515625,292.220703125,0</p>
@@ -475,7 +475,7 @@
           </pts>
         </pline>
         <pline id="3171" Closed="true">
-          <ModificationCount>7</ModificationCount>
+          <ModificationCount>11</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="-1.4971873668862703">-208.95849609375,358.037109375,0</p>
@@ -483,7 +483,7 @@
           </pts>
         </pline>
         <pline id="3172" Closed="true">
-          <ModificationCount>7</ModificationCount>
+          <ModificationCount>11</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="0.0028387708685860564">-206.76123046875,318.388671875,0</p>
@@ -497,7 +497,7 @@
           </pts>
         </pline>
         <pline id="3173" Closed="true">
-          <ModificationCount>7</ModificationCount>
+          <ModificationCount>11</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="-0.0021485900256713849">-169.44677734375,334.599609375,0</p>
@@ -512,7 +512,7 @@
           </pts>
         </pline>
         <pline id="3174" Closed="true">
-          <ModificationCount>7</ModificationCount>
+          <ModificationCount>11</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="-0.0021485900256713758">-133.83642578125,334.599609375,0</p>
@@ -527,7 +527,7 @@
           </pts>
         </pline>
         <pline id="3175" Closed="true">
-          <ModificationCount>7</ModificationCount>
+          <ModificationCount>11</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="-0.30023188267525952">-69.95458984375,294.21875,0</p>
@@ -558,7 +558,7 @@
           </pts>
         </pline>
         <pline id="3176" Closed="true">
-          <ModificationCount>7</ModificationCount>
+          <ModificationCount>11</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="-0.21062587905481253">-22.11279296875,293.33984375,0</p>
@@ -572,7 +572,7 @@
           </pts>
         </pline>
         <pline id="3177" Closed="true">
-          <ModificationCount>7</ModificationCount>
+          <ModificationCount>11</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="0.28850308621115356">-19.18310546875,336.943359375,0</p>
@@ -585,7 +585,7 @@
           </pts>
         </pline>
         <pline id="3178" Closed="true">
-          <ModificationCount>7</ModificationCount>
+          <ModificationCount>11</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="-0.42461441886272844">89.95263671875,292.16796875,0</p>
@@ -627,7 +627,7 @@
           </pts>
         </pline>
         <pline id="3179" Closed="true">
-          <ModificationCount>7</ModificationCount>
+          <ModificationCount>11</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="-0.42461441886260565">190.94384765625,292.16796875,0</p>
@@ -669,7 +669,7 @@
           </pts>
         </pline>
         <pline id="3180" Closed="true">
-          <ModificationCount>7</ModificationCount>
+          <ModificationCount>11</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="-0.17335186553315737">252.72607421875,293.974609375,0</p>
@@ -691,7 +691,7 @@
           </pts>
         </pline>
         <pline id="3181" Closed="true">
-          <ModificationCount>7</ModificationCount>
+          <ModificationCount>11</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="0.23070749208004082">251.40771484375,338.45703125,0</p>
@@ -702,7 +702,7 @@
           </pts>
         </pline>
         <pline id="3182" Closed="true">
-          <ModificationCount>7</ModificationCount>
+          <ModificationCount>11</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="-0.44227240305602056">338.59521484375,292.75390625,0</p>
@@ -736,12 +736,12 @@
           </pts>
         </pline>
       </objects>
-      <ModificationCount>5</ModificationCount>
+      <ModificationCount>6</ModificationCount>
     </layer>
-    <layer name="Wiedersehen" color="127,255,0">
+    <layer name="Wiedersehen" color="127,255,0" visible="false">
       <objects>
         <pline id="20" Closed="true">
-          <ModificationCount>3</ModificationCount>
+          <ModificationCount>7</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-354.048797329406,333.2734375,0</p>
@@ -750,7 +750,7 @@
           </pts>
         </pline>
         <pline id="19" Closed="true">
-          <ModificationCount>1</ModificationCount>
+          <ModificationCount>5</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="-0.213923912552941">-340.259734829406,288.625,0</p>
@@ -773,7 +773,7 @@
           </pts>
         </pline>
         <pline id="21" Closed="true">
-          <ModificationCount>1</ModificationCount>
+          <ModificationCount>5</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="0.0012224967430322215">-281.564422329406,312.609375,0</p>
@@ -797,7 +797,7 @@
           </pts>
         </pline>
         <pline id="22" Closed="true">
-          <ModificationCount>1</ModificationCount>
+          <ModificationCount>5</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="0.36213834494301922">-237.267547329406,344.71875,0</p>
@@ -828,7 +828,7 @@
           </pts>
         </pline>
         <pline id="25" Closed="true">
-          <ModificationCount>1</ModificationCount>
+          <ModificationCount>5</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="-0.40210884798841945">-141.6015625,286.046875,0</p>
@@ -865,7 +865,7 @@
           </pts>
         </pline>
         <pline id="26" Closed="true">
-          <ModificationCount>1</ModificationCount>
+          <ModificationCount>5</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="-1.497187366886606">-84.5,339.25,0</p>
@@ -873,7 +873,7 @@
           </pts>
         </pline>
         <pline id="40" Closed="true">
-          <ModificationCount>1</ModificationCount>
+          <ModificationCount>5</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="0.0028387708685861288">-82.7421875,307.53125,0</p>
@@ -886,7 +886,7 @@
           </pts>
         </pline>
         <pline id="42" Closed="true">
-          <ModificationCount>1</ModificationCount>
+          <ModificationCount>5</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="-0.17335186553315141">-46.8125,288,0</p>
@@ -907,7 +907,7 @@
           </pts>
         </pline>
         <pline id="43" Closed="true">
-          <ModificationCount>1</ModificationCount>
+          <ModificationCount>5</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="0.23070749208004115">-47.8671875,323.5859375,0</p>
@@ -918,7 +918,7 @@
           </pts>
         </pline>
         <pline id="44" Closed="true">
-          <ModificationCount>1</ModificationCount>
+          <ModificationCount>5</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="0.056584804233907035">23.515625,324.2890625,0</p>
@@ -937,7 +937,7 @@
           </pts>
         </pline>
         <pline id="45" Closed="true">
-          <ModificationCount>1</ModificationCount>
+          <ModificationCount>5</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="0.39309422682326395">6.171875,323.2734375,0</p>
@@ -950,7 +950,7 @@
           </pts>
         </pline>
         <pline id="47" Closed="true">
-          <ModificationCount>1</ModificationCount>
+          <ModificationCount>5</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="-0.17335186553315035">62.171875,288,0</p>
@@ -971,7 +971,7 @@
           </pts>
         </pline>
         <pline id="48" Closed="true">
-          <ModificationCount>1</ModificationCount>
+          <ModificationCount>5</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="0.23070749208004115">61.1171875,323.5859375,0</p>
@@ -982,7 +982,7 @@
           </pts>
         </pline>
         <pline id="49" Closed="true">
-          <ModificationCount>1</ModificationCount>
+          <ModificationCount>5</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="-0.12133550602355794">126.9140625,318.6640625,0</p>
@@ -1006,7 +1006,7 @@
           </pts>
         </pline>
         <pline id="50" Closed="true">
-          <ModificationCount>1</ModificationCount>
+          <ModificationCount>5</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="-0.43120154430092417">169.015625,319.875,0</p>
@@ -1040,7 +1040,7 @@
           </pts>
         </pline>
         <pline id="51" Closed="true">
-          <ModificationCount>1</ModificationCount>
+          <ModificationCount>5</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="-0.17335186553315715">207.625,288,0</p>
@@ -1061,7 +1061,7 @@
           </pts>
         </pline>
         <pline id="52" Closed="true">
-          <ModificationCount>1</ModificationCount>
+          <ModificationCount>5</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="0.23070749208004104">206.5703125,323.5859375,0</p>
@@ -1072,7 +1072,7 @@
           </pts>
         </pline>
         <pline id="53" Closed="true">
-          <ModificationCount>1</ModificationCount>
+          <ModificationCount>5</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="-0.37340734613841409">274.671875,287.375,0</p>
@@ -1103,7 +1103,7 @@
           </pts>
         </pline>
         <pline id="54" Closed="true">
-          <ModificationCount>1</ModificationCount>
+          <ModificationCount>5</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="-0.17335186553315402">315.671875,288,0</p>
@@ -1124,7 +1124,7 @@
           </pts>
         </pline>
         <pline id="55" Closed="true">
-          <ModificationCount>1</ModificationCount>
+          <ModificationCount>5</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="0.23070749208004104">314.6171875,323.5859375,0</p>
@@ -1135,7 +1135,7 @@
           </pts>
         </pline>
         <pline id="56" Closed="true">
-          <ModificationCount>1</ModificationCount>
+          <ModificationCount>5</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="-0.44227240305645715">379.984375,287.0234375,0</p>
@@ -1169,12 +1169,12 @@
           </pts>
         </pline>
       </objects>
-      <ModificationCount>0</ModificationCount>
+      <ModificationCount>1</ModificationCount>
     </layer>
     <layer name="in" color="127,255,0">
       <objects>
         <pline id="6291" Closed="true">
-          <ModificationCount>7</ModificationCount>
+          <ModificationCount>11</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="0.077452028396628486">-249.43115234375,166.798828125,0</p>
@@ -1206,7 +1206,7 @@
           </pts>
         </pline>
         <pline id="6292" Closed="true">
-          <ModificationCount>7</ModificationCount>
+          <ModificationCount>11</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="-0.21062587905481253">-195.57861328125,95.119140625,0</p>
@@ -1220,7 +1220,7 @@
           </pts>
         </pline>
         <pline id="6293" Closed="true">
-          <ModificationCount>7</ModificationCount>
+          <ModificationCount>11</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="0.28850308621115656">-192.64892578125,138.72265625,0</p>
@@ -1233,7 +1233,7 @@
           </pts>
         </pline>
         <pline id="6294" Closed="true">
-          <ModificationCount>7</ModificationCount>
+          <ModificationCount>11</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="0.2398759629069176">-112.71240234375,166.65234375,0</p>
@@ -1267,7 +1267,7 @@
           </pts>
         </pline>
         <pline id="6295" Closed="true">
-          <ModificationCount>7</ModificationCount>
+          <ModificationCount>11</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="-0.277068526574278">-46.48681640625,135.59765625,0</p>
@@ -1305,7 +1305,7 @@
           </pts>
         </pline>
         <pline id="6296" Closed="true">
-          <ModificationCount>7</ModificationCount>
+          <ModificationCount>11</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="0.00018763704550480356">24.02587890625,119.044921875,0</p>
@@ -1334,7 +1334,7 @@
           </pts>
         </pline>
         <pline id="6297" Closed="true">
-          <ModificationCount>7</ModificationCount>
+          <ModificationCount>11</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="0.3546206507259414">8.35205078125,140.1875,0</p>
@@ -1347,7 +1347,7 @@
           </pts>
         </pline>
         <pline id="6298" Closed="true">
-          <ModificationCount>7</ModificationCount>
+          <ModificationCount>11</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="-0.12133550602355811">90.82763671875,134.083984375,0</p>
@@ -1374,7 +1374,7 @@
           </pts>
         </pline>
         <pline id="6299" Closed="true">
-          <ModificationCount>7</ModificationCount>
+          <ModificationCount>11</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="0.0012224967430322215">155.14404296875,126.515625,0</p>
@@ -1401,7 +1401,7 @@
           </pts>
         </pline>
         <pline id="6300" Closed="true">
-          <ModificationCount>7</ModificationCount>
+          <ModificationCount>11</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="-0.4422724030562783">220.35400390625,94.533203125,0</p>
@@ -1435,7 +1435,7 @@
           </pts>
         </pline>
         <pline id="6301" Closed="true">
-          <ModificationCount>7</ModificationCount>
+          <ModificationCount>11</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="0.056584804233906591">295.92041015625,141.115234375,0</p>
@@ -1455,7 +1455,7 @@
           </pts>
         </pline>
         <pline id="6302" Closed="true">
-          <ModificationCount>7</ModificationCount>
+          <ModificationCount>11</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="0.22725492812146442">274.24072265625,139.845703125,0</p>
@@ -1474,7 +1474,7 @@
     <layer name="Hofsgrund" color="127,255,0">
       <objects>
         <pline id="6303" Closed="true">
-          <ModificationCount>7</ModificationCount>
+          <ModificationCount>11</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="-1.4971873668864766">-18.16259765625,242.673828125,0</p>
@@ -1482,7 +1482,7 @@
           </pts>
         </pline>
         <pline id="6304" Closed="true">
-          <ModificationCount>7</ModificationCount>
+          <ModificationCount>11</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="0.0028387708685861574">-16.40478515625,210.955078125,0</p>
@@ -1495,7 +1495,7 @@
           </pts>
         </pline>
         <pline id="6305" Closed="true">
-          <ModificationCount>7</ModificationCount>
+          <ModificationCount>11</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="-0.44227240305630039">26.75927734375,190.447265625,0</p>
@@ -1533,6 +1533,7 @@
     </layer>
   </layers>
   <MachiningOptions>
+    <OutFile>{$cbfile.name}.{$cbfile.name}-Vorderseite.nc</OutFile>
     <Stock>
       <PMin>0,0</PMin>
       <PMax>0,0</PMax>
@@ -1543,7 +1544,7 @@
   <parts>
     <part Name="Dorfschild-Hofsgrund-Vorderseite">
       <machineops>
-        <profile Enabled="false">
+        <profile Enabled="true">
           <TargetDepth state="Value">-5</TargetDepth>
           <DepthIncrement state="Value">2.5</DepthIncrement>
           <FinalDepthIncrement state="Default">0</FinalDepthIncrement>
@@ -1606,7 +1607,6 @@
             <prim>6304</prim>
             <prim>6305</prim>
           </primitive>
-          <Enabled>false</Enabled>
           <WorkPlane state="Default">XY</WorkPlane>
           <OptimisationMode state="Default">Experimental</OptimisationMode>
           <RoughingFinishing state="Default">Roughing</RoughingFinishing>
@@ -1620,65 +1620,6 @@
           <CustomMOPHeader state="Default" />
           <CustomMOPFooter state="Default" />
           <Name>Text-Willkomen-aussen</Name>
-        </profile>
-        <profile Enabled="true">
-          <TargetDepth state="Value">-4</TargetDepth>
-          <DepthIncrement state="Value">2</DepthIncrement>
-          <FinalDepthIncrement state="Default">0</FinalDepthIncrement>
-          <CutOrdering state="Default">DepthFirst</CutOrdering>
-          <CutWidth state="Default">0</CutWidth>
-          <StepOver state="Default">0.4</StepOver>
-          <StepoverFeedrate state="Default">Eintauch-Vorschub</StepoverFeedrate>
-          <InsideOutside state="Value">Inside</InsideOutside>
-          <MillingDirection state="Default">Conventional</MillingDirection>
-          <CollisionDetection state="Default">True</CollisionDetection>
-          <CornerOvercut state="Default">False</CornerOvercut>
-          <LeadInMove state="Default" />
-          <LeadOutMove state="Default" />
-          <HoldingTabs state="Default">
-            <TabMethod>None</TabMethod>
-            <Width>3</Width>
-            <Height>3</Height>
-            <MinimumTabs>3</MinimumTabs>
-            <MaximumTabs>6</MaximumTabs>
-            <TabDistance>40</TabDistance>
-            <SizeThreshold>4</SizeThreshold>
-            <UseLeadIns>False</UseLeadIns>
-            <TabStyle>Triangle</TabStyle>
-          </HoldingTabs>
-          <SideProfile state="Default" />
-          <StockSurface state="Default">0</StockSurface>
-          <RoughingClearance state="Default">0</RoughingClearance>
-          <ClearancePlane state="Default">3</ClearancePlane>
-          <SpindleDirection state="Default">CW</SpindleDirection>
-          <SpindleSpeed state="Default">1000</SpindleSpeed>
-          <SpindleRange state="Default">0</SpindleRange>
-          <VelocityMode state="Default">Undefined</VelocityMode>
-          <primitive>
-            <prim>3702</prim>
-            <prim>3314</prim>
-            <prim>3897</prim>
-            <prim>4282</prim>
-            <prim>3447</prim>
-            <prim>4026</prim>
-            <prim>5870</prim>
-            <prim>5101</prim>
-            <prim>3185</prim>
-            <prim>3183</prim>
-          </primitive>
-          <WorkPlane state="Default">XY</WorkPlane>
-          <OptimisationMode state="Default">Experimental</OptimisationMode>
-          <RoughingFinishing state="Default">Roughing</RoughingFinishing>
-          <ToolDiameter state="Value">3</ToolDiameter>
-          <ToolNumber state="Value">3</ToolNumber>
-          <ToolProfile state="Default">EndMill</ToolProfile>
-          <PlungeFeedrate state="Default">300</PlungeFeedrate>
-          <CutFeedrate state="Default">800</CutFeedrate>
-          <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
-          <StartPoint state="Default" />
-          <CustomMOPHeader state="Default" />
-          <CustomMOPFooter state="Default" />
-          <Name>Bollenhut</Name>
         </profile>
         <pocket Enabled="true">
           <TargetDepth state="Value">-5</TargetDepth>
@@ -1719,7 +1660,7 @@
           <CustomMOPFooter state="Default" />
           <Name>Rahmen</Name>
         </pocket>
-        <profile Enabled="true">
+        <profile Enabled="false">
           <TargetDepth state="Value">-5</TargetDepth>
           <DepthIncrement state="Value">2.5</DepthIncrement>
           <FinalDepthIncrement state="Default">0</FinalDepthIncrement>
@@ -1731,8 +1672,6 @@
           <MillingDirection state="Default">Conventional</MillingDirection>
           <CollisionDetection state="Default">True</CollisionDetection>
           <CornerOvercut state="Default">False</CornerOvercut>
-          <LeadInMove state="Default" />
-          <LeadOutMove state="Default" />
           <HoldingTabs state="Default">
             <TabMethod>None</TabMethod>
             <Width>3</Width>
@@ -1744,7 +1683,6 @@
             <UseLeadIns>False</UseLeadIns>
             <TabStyle>Triangle</TabStyle>
           </HoldingTabs>
-          <SideProfile state="Default" />
           <StockSurface state="Default">0</StockSurface>
           <RoughingClearance state="Default">0</RoughingClearance>
           <ClearancePlane state="Default">3</ClearancePlane>
@@ -1790,6 +1728,7 @@
             <prim>6304</prim>
             <prim>6305</prim>
           </primitive>
+          <Enabled>false</Enabled>
           <WorkPlane state="Default">XY</WorkPlane>
           <OptimisationMode state="Default">Experimental</OptimisationMode>
           <RoughingFinishing state="Default">Roughing</RoughingFinishing>
@@ -1799,11 +1738,55 @@
           <PlungeFeedrate state="Default">300</PlungeFeedrate>
           <CutFeedrate state="Default">800</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
+          <Name>Text-Wiedersehen-aussen</Name>
+        </profile>
+        <pocket Enabled="true">
+          <TargetDepth state="Value">-4</TargetDepth>
+          <DepthIncrement state="Value">2</DepthIncrement>
+          <FinalDepthIncrement state="Default">0</FinalDepthIncrement>
+          <CutOrdering state="Default">DepthFirst</CutOrdering>
+          <StepOver state="Default">0.4</StepOver>
+          <StepoverFeedrate state="Default">Eintauch-Vorschub</StepoverFeedrate>
+          <MillingDirection state="Default">Conventional</MillingDirection>
+          <CollisionDetection state="Default">True</CollisionDetection>
+          <LeadInMove state="Default" />
+          <LeadOutMove state="Default" />
+          <RegionFillStyle state="Default">InsideOutsideOffsets</RegionFillStyle>
+          <FinishStepover state="Default">0</FinishStepover>
+          <FinishStepoverAtTargetDepth state="Default">False</FinishStepoverAtTargetDepth>
+          <StockSurface state="Default">0</StockSurface>
+          <RoughingClearance state="Default">0</RoughingClearance>
+          <ClearancePlane state="Default">3</ClearancePlane>
+          <SpindleDirection state="Default">CW</SpindleDirection>
+          <SpindleSpeed state="Default">1000</SpindleSpeed>
+          <SpindleRange state="Default">0</SpindleRange>
+          <VelocityMode state="Default">Undefined</VelocityMode>
+          <primitive>
+            <prim>3702</prim>
+            <prim>3314</prim>
+            <prim>3897</prim>
+            <prim>4282</prim>
+            <prim>3447</prim>
+            <prim>4026</prim>
+            <prim>5870</prim>
+            <prim>5101</prim>
+            <prim>3185</prim>
+            <prim>3183</prim>
+          </primitive>
+          <WorkPlane state="Default">XY</WorkPlane>
+          <OptimisationMode state="Default">Experimental</OptimisationMode>
+          <RoughingFinishing state="Default">Roughing</RoughingFinishing>
+          <ToolDiameter state="Value">3</ToolDiameter>
+          <ToolNumber state="Default">0</ToolNumber>
+          <ToolProfile state="Default">Unspecified</ToolProfile>
+          <PlungeFeedrate state="Default">300</PlungeFeedrate>
+          <CutFeedrate state="Default">800</CutFeedrate>
+          <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
           <StartPoint state="Default" />
           <CustomMOPHeader state="Default" />
           <CustomMOPFooter state="Default" />
-          <Name>Text-Wiedersehen-aussen</Name>
-        </profile>
+          <Name>Bollenhut</Name>
+        </pocket>
       </machineops>
       <Stock>
         <PMin>0,0</PMin>
