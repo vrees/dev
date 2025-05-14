@@ -7,7 +7,10 @@ Um Batteriebetrieb oder eine zusätzliche Versorgungsleitung zu vermeiden, wird 
 ![Durchfluss-Aufbau_1](images/Durchfluss-Aufbau_1.jpeg)
 ![Video](images/Video_Durchfluss-Aufbau.mp4)
 
-https://github.com/vrees/dev/blob/master/spring-flow-sensor-eth/images/Video_Durchfluss-Aufbau.mp4
+
+
+https://github.com/user-attachments/assets/f150b015-e3f9-42fc-809a-2d22d97fc377
+
 
 
 
