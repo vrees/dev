@@ -7,6 +7,9 @@ Um Batteriebetrieb oder eine zusätzliche Versorgungsleitung zu vermeiden, wird 
 ![Durchfluss-Aufbau_1](images/Durchfluss-Aufbau_1.jpeg)
 ![Video](images/Video_Durchfluss-Aufbau.mp4)
 
+<video width="320" height="240" controls>
+  <source src="images/Video_Durchfluss-Aufbau.mp4" type="video/mp4">
+</video>
 
 ## Sensoren und ESP32-S3-ETH
 
