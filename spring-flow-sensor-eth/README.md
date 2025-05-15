@@ -4,7 +4,7 @@ Die Quelle liefert je nach Jahreszeit und Regenmenge unterschiedliche Wassermeng
 Ein ESP32-S3-ETH Microcontroller mit einem ESPHome Programm steuert diese beiden an und sendet die Messwerte über Ethernet. 
 Um Batteriebetrieb oder eine zusätzliche Versorgungsleitung zu vermeiden, wird der ESP32-S3 direkt vom Netzwerkkabel ber POE (Power over Ethenet) versorgt.
 
-![Skizze](images/Skizze.pdf)
+![Skizze](images/Skizze.png)
 
 ![Durchfluss-Aufbau_1](images/Durchfluss-Aufbau_1.jpeg)
 
