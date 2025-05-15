@@ -56,4 +56,9 @@ ESP32-S3 Microcontroller mit Ethernet-Schnittstelle und POE-Zusatzboard.
 
 [siehe Github: spring-flow-sensor-eth.yaml](https://github.com/vrees/homeassistant/blob/master/esphome/spring-flow-sensor-eth.yaml)
 
+### Platine 
+
+![Platine vorne](images/Platine_vorne.jpeg)
+![Platine hinten](images/Platine_hinten.jpeg)
+
 
