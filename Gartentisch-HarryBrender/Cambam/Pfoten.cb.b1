@@ -2,9 +2,10 @@
 <CADFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="0.9.8.0" Name="Pfoten">
   <layers>
     <layer name="Prfoten" color="127,255,0">
+      <ModificationCount>0</ModificationCount>
       <objects>
         <pline id="1922" Closed="true">
-          <ModificationCount>149</ModificationCount>
+          <ModificationCount>147</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>481.871203679027,-151.93003597848,0</p>
@@ -66,7 +67,7 @@
           </pts>
         </pline>
         <pline id="2091" Closed="true">
-          <ModificationCount>149</ModificationCount>
+          <ModificationCount>147</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>605.266137217431,-109.978347803588,0</p>
@@ -130,7 +131,7 @@
           </pts>
         </pline>
         <pline id="2036" Closed="true">
-          <ModificationCount>149</ModificationCount>
+          <ModificationCount>147</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>448.844590441565,-98.6981126720494,0</p>
@@ -190,7 +191,7 @@
           </pts>
         </pline>
         <pline id="1979" Closed="true">
-          <ModificationCount>149</ModificationCount>
+          <ModificationCount>147</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>578.062192491194,-131.422043210455,0</p>
@@ -252,7 +253,7 @@
           </pts>
         </pline>
         <pline id="2206" Closed="true">
-          <ModificationCount>149</ModificationCount>
+          <ModificationCount>147</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>487.542803467584,-99.0405254651648,0</p>
@@ -315,7 +316,7 @@
           </pts>
         </pline>
         <pline id="1785" Closed="true">
-          <ModificationCount>149</ModificationCount>
+          <ModificationCount>147</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>548.907251438262,-118.854191419137,0</p>
@@ -399,7 +400,7 @@
           </pts>
         </pline>
         <pline id="2264" Closed="true">
-          <ModificationCount>149</ModificationCount>
+          <ModificationCount>147</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>521.341368746699,-99.2620009831842,0</p>
@@ -460,7 +461,7 @@
           </pts>
         </pline>
         <pline id="2150" Closed="true">
-          <ModificationCount>149</ModificationCount>
+          <ModificationCount>147</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>627.028850397801,-76.8185625245579,0</p>
@@ -521,7 +522,7 @@
           </pts>
         </pline>
         <pline id="1864" Closed="true">
-          <ModificationCount>149</ModificationCount>
+          <ModificationCount>147</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>562.425052984624,-133.350588169976,0</p>
@@ -584,7 +585,7 @@
           </pts>
         </pline>
         <pline id="1703" Closed="true">
-          <ModificationCount>149</ModificationCount>
+          <ModificationCount>147</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>606.097072625498,-176.092197041112,0</p>
@@ -671,7 +672,6 @@
           </pts>
         </pline>
       </objects>
-      <ModificationCount>0</ModificationCount>
     </layer>
   </layers>
   <MachiningOptions>

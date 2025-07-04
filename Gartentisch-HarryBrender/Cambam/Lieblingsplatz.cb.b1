@@ -2,12 +2,12 @@
 <CADFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="0.9.8.0" Name="Lieblingsplatz">
   <layers>
     <layer name="Text" color="127,255,0">
+      <ModificationCount>0</ModificationCount>
       <objects>
         <text id="1" p1="-9.32899693369678,21.3069683053568,0" Height="69.6478064" Font="Comic Sans MS" align="bottom,left">
-          <ModificationCount>4</ModificationCount>
+          <ModificationCount>2</ModificationCount>
           <mat m="Identity" />Lieblingsplatz</text>
       </objects>
-      <ModificationCount>0</ModificationCount>
     </layer>
   </layers>
   <MachiningOptions>
@@ -66,9 +66,8 @@
         <Color>255,165,0</Color>
       </Stock>
       <ToolProfile>Unspecified</ToolProfile>
-      <MachiningOrigin>204,40</MachiningOrigin>
       <Nesting>
-        <BasePoint>0,0</BasePoint>
+        <BasePoint />
         <NestMethod>None</NestMethod>
       </Nesting>
     </part>
