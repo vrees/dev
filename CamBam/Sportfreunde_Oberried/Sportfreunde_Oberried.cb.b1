@@ -2,14 +2,14 @@
 <CADFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="0.9.8.0" Name="Sportfreunde_Oberried">
   <layers>
     <layer name="Standard" color="127,255,0">
+      <ModificationCount>0</ModificationCount>
       <objects>
         <text id="1" p1="-225.019817826259,-172.13642198955,0" p2="-225.019817826259,-172.13642198955,0" Height="70" Font="Comic Sans MS" align="bottom,left" style="bold">
-          <ModificationCount>27</ModificationCount>
+          <ModificationCount>25</ModificationCount>
           <mat m="Identity" />Sportfreunde
     Oberried
 </text>
       </objects>
-      <ModificationCount>0</ModificationCount>
     </layer>
   </layers>
   <MachiningOptions>
