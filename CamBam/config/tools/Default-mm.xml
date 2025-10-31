@@ -45,9 +45,9 @@
 <AxialDepthOfCut>0</AxialDepthOfCut>
 <RadialDepthOfCut>0</RadialDepthOfCut>
 </ToolDefinition>
-<ToolDefinition Name="2.00mm 2 flute EndMill">
-<Index>2</Index>
-<Diameter>2</Diameter>
+<ToolDefinition Name="1.50mm 2 flute Gerader Schaftfräser">
+<Index>15</Index>
+<Diameter>1.5</Diameter>
 <ToolProfile>EndMill</ToolProfile>
 <Flutes>2</Flutes>
 <FluteLength>0</FluteLength>
@@ -60,9 +60,24 @@
 <AxialDepthOfCut>0</AxialDepthOfCut>
 <RadialDepthOfCut>0</RadialDepthOfCut>
 </ToolDefinition>
-<ToolDefinition Name="1.50mm 2 flute Gerader Schaftfräser">
-<Index>15</Index>
-<Diameter>1.5</Diameter>
+<ToolDefinition Name="1.30mm 2 flute Gerader Schaftfräser">
+<Index>13</Index>
+<Diameter>1.3</Diameter>
+<ToolProfile>EndMill</ToolProfile>
+<Flutes>2</Flutes>
+<FluteLength>0</FluteLength>
+<Length>0</Length>
+<ShankDiameter>0</ShankDiameter>
+<HelixAngle>0</HelixAngle>
+<VeeAngle>0</VeeAngle>
+<MaxRampAngle>0</MaxRampAngle>
+<ToothLoad>0</ToothLoad>
+<AxialDepthOfCut>0</AxialDepthOfCut>
+<RadialDepthOfCut>0</RadialDepthOfCut>
+</ToolDefinition>
+<ToolDefinition Name="2.00mm 2 flute EndMill">
+<Index>2</Index>
+<Diameter>2</Diameter>
 <ToolProfile>EndMill</ToolProfile>
 <Flutes>2</Flutes>
 <FluteLength>0</FluteLength>
