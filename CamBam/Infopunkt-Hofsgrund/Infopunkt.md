@@ -20,14 +20,14 @@
 ## Masse
 - 240 x 190 mm (BxH)
 
-# 
+# Theatergruppe
 ## Masse
--  x  mm (BxH)
+- 233 x 280 mm (BxH)
 
-# 
+# Trachtenkapelle
 ## Masse
--  x  mm (BxH)m
+- 215 x 293 mm (BxH)m
 
-# 
-## Masse
+# Bergteufel
+## Massem
 -  x  mm (BxH)
