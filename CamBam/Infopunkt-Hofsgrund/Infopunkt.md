@@ -30,4 +30,4 @@
 
 # Bergteufel
 ## Massem
--  x  mm (BxH)
+- 242 x 221 mm (BxH)
