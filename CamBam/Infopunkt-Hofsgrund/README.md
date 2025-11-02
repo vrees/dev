@@ -2,28 +2,28 @@
 
 
 # Brett A
-## Dorfleben
-- 237 x 410 mm (BxH)
+1. ### Dorfleben
+    - 237 x 410 mm (BxH)
 
-## Bergbauernbube
-- 240 x 306 mm (BxH)
+2. ### Bergbauernbube
+    - 240 x 306 mm (BxH)
 
-## Motorsportfreunde
-- 236 x 250 mm (BxH)
+3. ### Motorsportfreunde
+    - 236 x 250 mm (BxH)
 
-## Feuerwehr u Ortschaftsrat
-- 240 x 321 mm (BxH)
+4. ### Feuerwehr u Ortschaftsrat
+    - 240 x 321 mm (BxH)
 
 
 # Brett B
-## Bergteufel
-- 242 x 221 mm (BxH)
+1. ### Bergteufel
+    - 242 x 221 mm (BxH)
 
-## Skivereinm
-- 240 x 190 mm (BxH)
+2. ### Skivereinm
+    - 240 x 190 mm (BxH)
 
-## Theatergruppe
-- 233 x 280 mm (BxH)
+3. ### Theatergruppe
+    - 233 x 280 mm (BxH)
 
-## Trachtenkapelle
-- 215 x 293 mm (BxH)m
+4. ### Trachtenkapelle
+    - 215 x 293 mm (BxH)m
