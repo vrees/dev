@@ -26,4 +26,4 @@
     - 233 x 280 mm (BxH)
 
 4. ### Trachtenkapelle
-    - 215 x 293 mm (BxH)m
+    - 191 x 264 mm (BxH)m
