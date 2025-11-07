@@ -23,7 +23,11 @@
     - 240 x 190 mm (BxH)
 
 3. ### Theatergruppe
-    - 233 x 280 mm (BxH)
+    - 214 x 201 mm (BxH)
 
 4. ### Trachtenkapelle
-    - 191 x 264 mm (BxH)m
+    - 191 x 264 mm (BxH)
+
+# Sei auch ein Teil davon
+    - 103 x 375 mm (BxH)
+
