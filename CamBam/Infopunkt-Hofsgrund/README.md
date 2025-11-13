@@ -28,6 +28,8 @@
 4. ### Trachtenkapelle
     - 225 x 165 mm (BxH)
 
-# Sei auch ein Teil davon
-    - 103 x 375 mm (BxH)
+    
+# Brett Titel
+    - 105 x 418 mm (BxH)
 
+m
