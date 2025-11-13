@@ -9,10 +9,10 @@
     - 212 x 225 mm (BxH)
 
 3. ### Bergbauernbube
-    - 214 x 274 mm (BxH)
+    - 203 x 246 mm (BxH)
 
-4. ### Feuerwehr u Ortschaftsrat
-    - 212 x 232 mm (BxH)
+4. ### Ortschaftsrat
+    - 187 x 182 mm (BxH)
 
 
 # Brett B
