@@ -20,13 +20,13 @@
     - 242 x 221 mm (BxH)
 
 2. ### Skivereinm
-    - 240 x 190 mm (BxH)
+    - 190 x 242 mm (BxH)
 
-3. ### Theatergruppe
-    - 214 x 201 mm (BxH)
+3. ### Feuerwehr
+    - 222 x xxx mm (BxH)
 
 4. ### Trachtenkapelle
-    - 191 x 264 mm (BxH)
+    - 225 x 165 mm (BxH)
 
 # Sei auch ein Teil davon
     - 103 x 375 mm (BxH)
